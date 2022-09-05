@@ -10,92 +10,91 @@ in cumail seanorba nach suaill
 ni huili rosberat ann  
 acht in duine rosdligenn.  
   
-## 216.13-15
-morseisiur nosbeir co mbuaid
-cumal tsenorba ni suaill
-meic na tri cétmuinter caom
-7 mac adaltraige imaraon
+## 216.13-15  
+morseisiur nosbeir co mbuaid  
+cumal tsenorba ni suaill  
+meic na tri cétmuinter caom  
+7 mac adaltraige imaraon  
+  
+Fuidir 7 gormac glan  
+7 daorfuidhir in sechtmadh  
+  
+# 250.19-21 (Bretha Étgid commentary):  
+deismeracht air-sin:  
+Inge cairpri dorochair  
+7 do fedleim nochruthaig  
+do cumaig eirc aebda in rand  
+gaet i ndigail con culainn  
+  
+# 250.22-24 (Bretha Étgid commentary):  
+deismirecht air:  
+Conall cernach tuc ceann eirc  
+re taeb temrach im trath teirt  
+is truaigh in gnim dodechaid de  
+brised cridi uair aicle  
+  
+# 339.17-20 (PHP to SM):  
+deismerecht air-sidhe, ut dx in filedh:  
+Patraic rob athius go li  
+i naimsir tethosi  
+pritcuis soiscela cen meth  
+do tuaith molfaig meic miled  
+  
+# 339.21-22 (PHP to SM):  
+et persa do seancus. lin persanna int sencusa .i.  
+Laegairi corc dairi dur  
+patraic beneoin cairneach coir  
+rosa dubthach ferghus co feib  
+naei sailgis int sencuis moir.  
+  
+# 345.12-15 (not marked out in CIH, Intro to SM):  
+ef tallad as ria n-es, deismirecht air-side, amail adubairt in file:  
+  
+Fegsat filid fail i fos  
+fenchas co feig la fergus  
+ma iar mal cach maine imach  
+doroisce daine dubtach  
+  
+# 354.6-7 (narrative in SM2 Cethairslicht Athgabálae)  
+7 deismirecht air:  
+Asal eochu garg a ngle  
+foitline 7 tibraite  
+enda ailill, an a clu  
+seser las torchair eochu  
+  
+# 354.35-36  
+Is de rocet:  
+Foglaid forn mac do durn 7rl-  
+  
+# 355.31-33: (narrative in SM2, Binchy Ériu 16) = 883.20-22  
+is de-sin rocet:  
+Fergus mac leti in rig  
+luid a fertais rudraigi  
+uath donarfas, fa gann gle  
+ba si fochunn a ainme.  
+  
+## 883.20-22  
+is de-som rocet:  
+Fergus mac leidi in rig  
+luid i fertus rudraigi  
+huath donarfas fa gann ngle  
+ba he fochond a ainme.  
+  
 
-Fuidir 7 gormac glan
-7 daorfuidhir in sechtmadh
-
-# 250.19-21 (Bretha Étgid commentary):
-deismeracht air-sin:
-Inge cairpri dorochair
-7 do fedleim nochruthaig
-do cumaig eirc aebda in rand
-gaet i ndigail con culainn
-
-# 250.22-24 (Bretha Étgid commentary):
-deismirecht air:
-Conall cernach tuc ceann eirc
-re taeb temrach im trath teirt
-is truaigh in gnim dodechaid de
-brised cridi uair aicle
-
-# 339.17-20 (PHP to SM):
-deismerecht air-sidhe, ut dx in filedh:
-Patraic rob athius go li
-i naimsir tethosi
-pritcuis soiscela cen meth
-do tuaith molfaig meic miled
-
-# 339.21-22 (PHP to SM):
-et persa do seancus. lin persanna int sencusa .i.
-Laegairi corc dairi dur
-patraic beneoin cairneach coir
-rosa dubthach ferghus co feib
-naei sailgis int sencuis moir.
-
-# 345.12-15 (not marked out in CIH, Intro to SM):
-ef tallad as ria n-es, deismirecht air-side, amail adubairt in file:
-
-Fegsat filid fail i fos
-fenchas co feig la fergus
-ma iar mal cach maine imach
-doroisce daine dubtach
-
-# 354.6-7 (narrative in SM2 Cethairslicht Athgabálae)
-7 deismirecht air:
-Asal eochu garg a ngle
-foitline 7 tibraite
-enda ailill, an a clu
-seser las torchair eochu
-
-# 354.35-36 = 
-Is de rocet:
-Foglaid forn mac do durn 7rl-
-
-# 355.31-33: (narrative in SM2, Binchy Ériu 16) = 883.20-22
-is de-sin rocet:
-Fergus mac leti in rig
-luid a fertais rudraigi
-uath donarfas, fa gann gle
-ba si fochunn a ainme.
-
-## 883.20-22
-is de-som rocet:
-Fergus mac leidi in rig
-luid i fertus rudraigi
-huath donarfas fa gann ngle
-ba he fochond a ainme.
-
-
-# 375.12 (SM2 commentary) = 1506.35-36 (O’Dav) = Auraic. ll. 4541-4
-Anbobracht .i. ut dx Cormac:
-Conberbar bracht
-Nebron bru
-Feisi cin lacht
-Nin for tnu
-
-## 1506.35-36 (O’Dav)
-Gle, .i. tife no toingfe, ut est gle fo erc nebron, .i. toing-sa fo nem niba geall dam an iarand
-Berbarar bracht
-I nebron bru
-Feisi gen lacht
-Inen for tnu
-
-
+# 375.12 (SM2 commentary) = 1506.35-36 (O’Dav) = Auraic. ll. 4541-4  
+Anbobracht .i. ut dx Cormac:  
+Conberbar bracht  
+Nebron bru  
+Feisi cin lacht  
+Nin for tnu  
+   
+## 1506.35-36 (O’Dav)  
+Gle, .i. tife no toingfe, ut est gle fo erc nebron, .i. toing-sa fo nem niba geall dam an iarand  
+Berbarar bracht  
+I nebron bru  
+Feisi gen lacht  
+Inen for tnu  
+  
 # 380.8-13 (SM2 commentary, translated by R. Smith (1942, 548)) = 1686.37-1687.3
 ut d.x.
 Da mac partoloin cen acht
