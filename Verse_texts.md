@@ -1,15 +1,15 @@
 # 109.19-22 = 216.13-15 (glosses to Tosach Bésgnai)
-Deismirecht air:
-Meic na tri cetmuindter caemh
-is mac adhlltraighe faraen
-Flaith geilfine is gormac glan
-is daerfuidhir in .uii.madh
-
-Is iatsin beires go mbuaidh
-in cumail seanorba nach suaill
-ni huili rosberat ann
-acht in duine rosdligenn.
-
+Deismirecht air:  
+Meic na tri cetmuindter caemh  
+is mac adhlltraighe faraen  
+Flaith geilfine is gormac glan  
+is daerfuidhir in .uii.madh  
+  
+Is iatsin beires go mbuaidh  
+in cumail seanorba nach suaill  
+ni huili rosberat ann  
+acht in duine rosdligenn.  
+  
 ## 216.13-15
 morseisiur nosbeir co mbuaid
 cumal tsenorba ni suaill
