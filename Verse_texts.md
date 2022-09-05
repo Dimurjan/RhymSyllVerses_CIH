@@ -359,7 +359,7 @@ iter ócaib eirechtae
 is a sithmbrugh suidithe  
 leicith duillen ndeilithe.  
   
-## 617.31-33  (DDC, s.v. Muldach) (unmarked by Binchy) = 1075.33-36  
+## 617.31-33  (DDC, s.v. Muldach = CormY 944) (unmarked by Binchy) = 1075.33-36  
 Muldach .i. seiscenn, ut dx. ua siagail ag tothlugud cairr  
 Slicht a da gae tre gach mullach  
 cullach flescach férach  
