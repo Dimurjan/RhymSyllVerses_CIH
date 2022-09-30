@@ -241,7 +241,7 @@ tar cenn ech, tar cenn buirdhe
 Adsoi (.i. fosaigus) cridhe cernn (.i. buaid) fri gnima  
 brisus roi frisna righaib .i. isin bliadhain tanaisi dogní  
   
-## **555.35-36** (not marked by Binchy) = 650.26-28 = 1535.29-32 = 1605.23-26 = 2321.26-29  
+## **555.35-36** (not marked by Binchy) = 650.26-29 = 1535.29-32 = 1605.23-26 = 2321.26-29  
 deismirecht arin aidmnigh ndrisicon:  
 A ben fuil isin cuili  
 in tabrai biadh do duine  
@@ -310,6 +310,13 @@ taili in mblathaig uba déoigh
 > maith du mathathair 7 t’athair  
 > taili in blathaigh ina deoghaidh  
 
+> 1535.32-34
+> 7 deismirecht so arin túiscleimnech tamain  
+> Taile in mbairgin  
+> 7 bladh don blonaig moir  
+> maith do mathair 7 t'athair  
+> taile in mblathaid ina deoidh  
+
 > 2321.30-31  
 > & desmisrecht arin tusclemnig thamuin  
 > Taili in mbairgin  
@@ -317,21 +324,42 @@ taili in mblathaig uba déoigh
 > maith do mathair 7 t'athair  
 > taili mblathaig ina deoig  
   
-## 555.41-556.2 (not marked by Binchy) = 650.31-33 = 1535.34-36 = 1605.28-30 = 2321.32-33 (MV ii § 134)  
+## **555.41-556.2** (not marked by Binchy) = 650.31-33 = 1535.34-36 = 1605.28-30 = 2321.32-33 (MV ii § 134)  
 deismirecht arin mbuaibléoraigh oblaire:  
 Do neoch rancamair do mnáibh  
 albanach is érinnach  
 isi in moel mairgindach  
 isi in cairgindach ceimindach  
   
-#### 650.31-33  
-desmirecht seo seo arin buaidleorach oblaire  
-Du neoch rangumar du mnaibh  
-albanach is erendach  
-is si in mael mairgendach remenach  
+> 650.31-33  
+> desmirecht seo seo arin buaidleorach oblaire  
+> Du neoch rangumar du mnaibh  
+> albanach is erendach  
+> is si in mael mairgendach remenach  
+
+> 1535.34-36  
+> 7 deismirecht so arin mbuaibleorach oblaire  
+> Do neoch rancamar do mnaib  
+> albanach is erannach  
+> isi in mael mairgendach  
+> isi 'n cairrgennach reiminnach  
+
+> 1605.28-30  
+> 7 desmiricht seo di arin mbuaibleoraig obloiri  
+> Do neoch rangamar do mnaib  
+> albanach is erennach  
+> isi in mael mairgindach  
+> isi in cairgindach remendach  
+
+> 2321.32-33
+> & desmirecht ann so di arin mbuaibleoraig oblairi  
+> Do neoch rancamar do mnaib  
+> albanach is erindach  
+> isi in mael mairrgendach  
+> isi in cairrgind remindach  
   
   
-## 556.18-21 (change the order of lines to make a new meter, = MV ii §20):  
+## **556.18-21** (change the order of lines to make a new meter, = MV ii §20):  
 Emain imrinn a aiste   
 Nicon facca beola eith  
 amhail beola in liathánuig (.i. in liath macha)  
