@@ -241,7 +241,7 @@ tar cenn ech, tar cenn buirdhe
 Adsoi (.i. fosaigus) cridhe cernn (.i. buaid) fri gnima  
 brisus roi frisna righaib .i. isin bliadhain tanaisi dogní  
   
-## **555.35-36** (not marked by Binchy) = 650.26-29 = 1535.29-32 = 1605.23-26 = 2321.26-29  
+## **555.35-36** (not marked by Binchy, McCone 1989 FS Carney p.130, Breatnach 1987: 134-5) = 650.26-29 = 1535.29-32 = 1605.23-26 = 2321.26-29  
 deismirecht arin aidmnigh ndrisicon:  
 A ben fuil isin cuili  
 in tabrai biadh do duine  
@@ -366,49 +366,49 @@ amhail beola in liathánuig (.i. in liath macha)
 obus begán gabus gleth (.i. fer d’ithi)  
 a tír cáich cin fiarfuide  
   
-## 557.15-20 (attributed to Colmán mac Léiníni, = MV ii §21)  
+## **557.15-20** (attributed to Colmán mac Léiníni, = MV ii §21)  
 Indlig duind, drub iar mar  
 feada diam cuilenn clar  
 cach dia eol imglan rois  
 ropo doim duind Feargus fois  
   
-## 557.38-40 (= MV ii §81)  
+## **557.38-40** (= MV ii §81)  
 Nath aenbricht ann so  
 Bran finn, fí drong  
 derg rinn, ríglond  
   
-## 557.40-558.1  
+## **557.40-558.1**   
 Nath debrichta ann so  
 Ulaidh araidh, curaidh cloidhimh  
 cairpthigh calaidh, aircthigh ailigh  
   
-## 558.2-4  
+## **558.2-4**  
 Nath trebrichta ann so  
 Geg inghin, glangart grian  
 glac dronchoir, guirt breactaibh  
 Blaith dluith chiall, marc mac loigh  
 alt caem chóir, ucht geal choir  
   
-## 558.7-12 (= MV ii §31, Colmán mac Léiníni)  
+## **558.7-12** (= MV ii §31, Colmán mac Léiníni)  
 Ni fordíuchtar for duain indlis  
 iar codlugh cain bindres  
 briathar chorghais cen nach dichmairc  
 deog nepnairc rath rímacc  
   
-## 558.13-15 (=MV ii §28)  
+## **558.13-15** (=MV ii §28)  
 Nath trebrichta ann so  
 Cóer cróderg lamfada   
 labraibh loiggsech  
 léo níthach nathcobhair  
 cathcobair coimsech  
   
-## 558.15-19 (= MV ii §115)  
+## **558.15-19** (= MV ii §115)  
 Sam eathrach iath nearc  
 rogormadh gloir [glend]  
 Grian forma fail  
 fail muilmil mair 7rl-  
   
-## 561.39-562.1 (unmarked by Binchy)  
+## **561.39-562.1** (unmarked by Binchy)  
 A Emhuin idhnac aíbhinn  
 asa finnmad atféidhim  
 as mor ndíne dit ghualand  
