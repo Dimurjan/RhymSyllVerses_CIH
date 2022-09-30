@@ -408,23 +408,31 @@ rogormadh gloir [glend]
 Grian forma fail  
 fail muilmil mair 7rl-  
   
-## **561.39-562.1** (unmarked by Binchy)  
+## **561.39-562.1** (unmarked by Binchy = LL 2560-64 De Flaithiusaib Érenn).
+*to exemplify the salchubaid (rhyming between a and c)*  
 A Emhuin idhnac aíbhinn  
 asa finnmad atféidhim  
 as mor ndíne dit ghualand  
 dogabh righe for erinn  
+
+> LL 2560-64 (47 qt in total):  
+> A Emain idnach óebind  
+> asa fidrad adfeidim.  
+> is mór ndíne dit gualaind  
+> ro gab ríge for Herind.  
+
   
-## 562.3-22 (A poem on the seven grades of filid, Breatnach 1987:19)  
+## **562.3-22** (A poem on the seven grades of filid, Breatnach 1987:19)  
 Fochloc is fer fichdha finn  
 samhaisc isí a einecclann  
 ceitri diana do gan on  
 samhuisc dó ara ndénam  
 …  
   
-## 568.19-20 ( Críth Gablach, Binchy 1941: ll. 462-465, to illustrate Rí Buiden, but perhaps corrupted)  
+## 568.19-20 (Críth Gablach, Binchy 1941: ll. 462-465, to illustrate Rí Buiden, but perhaps corrupted)  
 amail aracain:  
 Ríi midchúarta mescraid recht  
-ná[d] demogaid mesc máa   
+ná\[d] demogaid mesc máa   
 dligid cumail for a secht  
 dó a díriu dán  
   
@@ -434,6 +442,13 @@ Is annam iar nimrim
 iter caisil 7 loch  
 inid aithenn findabrach  
 feras arán frim da droch  
+
+> 1072.41-3  
+> Droch dano .i. roth carpait ut dix. mor muman  
+> Is annamh iar nimrim  
+> iter chaisil 7 loch  
+> inid aithend finnabhrath  
+> ferass arán frim da droch  
   
 ## 612.29-31 (DDC s.v. Dobrach) = 1073.10-14  
 Dobrach .i. fliuchaide ut dr. fer muman i ndain in meirlig  
@@ -441,6 +456,13 @@ Ulcha dobrach i ndomnach
 i luann i máirt mac feirnech  
 fo bratach senrach soimlech  
 sruamach maignech míl meirlech  
+
+> 1073.10-14  
+> Dobrach .i. fliuchaidhe, ut dx fear muman i nduain in meirlid  
+> Ulcha dobrach i ndomnach  
+> a luan a mairt mac feirnech  
+> fo bratach senrech soimlech  
+> sruamach maighnech mil merlech  
   
 ## 613.4-5 (DDC s.v. Duillenn) = 1073.30-31  
 Duillenn .i. gae, ut dx fer muman:  
@@ -448,6 +470,12 @@ Is dána drech daimine
 iter ócaib eirechtae  
 is a sithmbrugh suidithe  
 leicith duillen ndeilithe.  
+
+> 1073.30-31  
+> Duilleán .i. gae ut dx fer muman  
+> Is dana drech daimine  
+> iter ocaib eirichtae  
+> is a sithmbruigh  
   
 ## 617.31-33  (DDC, s.v. Muldach = CormY 944) (unmarked by Binchy) = 1075.33-36  
 Muldach .i. seiscenn, ut dx. ua siagail ag tothlugud cairr  
@@ -456,18 +484,40 @@ cullach flescach férach
 amal cairr a mberar lamhach  
 tre condold fand ferach  
   
+>  1075.33-36  
+>  Maullach .i. seis .i. ut dx úa siagail ag tothlugud cairr 
+>  slicht a da ghae tre cach muallach  
+>  cullach flescach ferach  
+>  amail charr a mberar lamach  
+>  tre condull fann ferach  
+
 ## 618.34-36 (DDC s.v. osmennadh) = 1076.21-24  
 Osmannadh .i. scrútadh o menmain 7 a meabhrugud dogní, ut dx int éicsine i farrad sencáin  
 Ni mogenar fil andíu  
 oc raith colgan ina fíu  
 ara meince asberar fris  
 osment osment a drochéicis.  
+
+> 1076.21-24  
+> Osmenach .i. sgrudun o meanmain 7 a mebrugud dogni ut dx int éicsine i farrath thseancáin  
+> Ni mongenar fil anniu  
+> oc raith colgan ina fiu  
+> ari meinci asberar fris  
+> osmentae a drocheicis  
   
-## 619.18-20 (DDC, unmarked by Binchy) = 1077.16-20  
+## 619.17-20 (DDC, unmarked by Binchy) = 1077.16-20  
+Púr .i. glan, oní is purus; unde est  
 Intí carus crabhad ngúr  
 is dighnad lais uisce púr  
 ibhid cailech betha búain  
 i flaith iar nól uisque úair  
+
+> 1077.16-20  
+> Pur .i. glan, oní is purus ut est 
+> Intí charus crabhadh ngúr  
+> is dignadh lais uisci púr  
+> ibaidh cailech betha buain  
+> i flaith iar ndol uisci uair .ut est.  
   
 ## 620.21-22 (DDC, unmarked by Binchy) = 1077.40-42  
 Timairle, .i. airle tim ut dr  
@@ -475,6 +525,13 @@ Domic timairle andíu
 iter fedaib fidmuiniu  
 beirthium dubrón bes ogus  
 in cunnrad dorigenus.   
+
+> 1077.40-42  
+> Timairle .i. airli tim  
+> Domic timairle indiu  
+> iter fedaibh fidhmhuiniu  
+> beirthium dubrón bes ogus  
+> in cunnradh dorigenus
   
 ## 621.21-22 (DDC)  
 Aiss .i. aubhann ut dx. in fili  
@@ -520,7 +577,7 @@ as caoime cach dlug
 atach namra dam  
 ar sluag ndemna ndub.  
   
-## 633.20-23 (a glossary, unmarked by Binchy)  
+## 633.20-23 (a glossary, unmarked by Binchy) = OM 815, Irsan 216 (trans. Irslinger Ulidia 4: 79)
 Medb .i. serb, unde dr:   
 tolcda di coilctib simenn  
 gáir peinn di dromaib duillenn  
@@ -535,12 +592,12 @@ a meic muire ingine
 isum aithrech a crist chain  
 domrat sist fo domenmain  
   
-#### 1595.13-14  
-Desmirecht arindi is pito proind:  
-Pit beg romroimlius inde  
-A meic muiri ingine  
-Isam aithrech a crist cain  
-Dumrad sist fo domenmain  
+> 1595.13-14  
+> Desmirecht arindi is pito proind:  
+> Pit beg romroimlius inde  
+> A meic muiri ingine  
+> Isam aithrech a crist cain  
+> Dumrad sist fo domenmain  
   
 ## 644.8-10 (Uraicecht Becc) = 1599.36-38 = 2266.36-38  
 NO MIL .i. a llogidecht sin do mhil, amhail ata  
@@ -550,45 +607,49 @@ Da mer ina doimni derb ni cel
 A lan do mhil ni fil lusc  
 La cach fichit bairgen buan in cusc  
   
-#### 1599.36-38  
-NO MIL .i. a loigidecht-sin do mil, amail ata:  
-Easc a laim bona a mer  
-Da mer ina doimni derb ni cel  
-7 lethet a bela co domain  
-A lan do mil ni fil lusc  
-La cach firbairgin buan in cusc  
+> 1599.36-38  
+> NO MIL .i. a loigidecht-sin do mil, amail ata:  
+> Easc a laim bona a mer  
+> Da mer ina doimni derb ni cel  
+> 7 lethet a bela co domain  
+> A lan do mil ni fil lusc  
+> La cach firbairgin buan in cusc  
   
-#### 2266.36-38  
-Amail ata:  
-Esca laime bona mer  
-‘na domni dearb ni chel  
-  
-7 leithead a beoil ‘na doimne  
-A lan do mil ni fil i lusc  
-La cach fichit mbairgean   
-Is buan in cusc  
+> 2266.36-38  
+> Amail ata:  
+> Esca laime bona mer  
+> ‘na domni dearb ni chel  
+> 7 leithead a beoil ‘na doimne  
+> A lan do mil ni fil i lusc  
+> La cach fichit mbairgean 
+> Is buan in cusc  
   
 ## 644.13-14 (Uraicecht Becc, unmarked by Binchy) = 1599.41-42 = 2267.2  
 NO GRUS a loighidacht-sin do gruth  
 Da dornn letat a ingne tailc  
 Orrlach inai thighed gened bailc  
   
-#### 1599.41-42  
-NO GRUS .i. a loigidhicht-sin do grut:  
-Da dorn le traigidh tailc  
-Ordlac ina tiget cenid bailc  
+> 1599.41-42  
+> NO GRUS .i. a loigidhicht-sin do grut:  
+> Da dorn le traigidh tailc  
+> Ordlac ina tiget cenid bailc  
   
-#### 2267.2   
-.i. da dornd leitheat tanaige thailc  
-Ordlach ‘na tiget genni bailc  
+> 2267.2   
+> .i. da dornd leitheat tanaige thailc  
+> Ordlach ‘na tiget genni bailc  
   
-  
-## 664.6-7 (glossing torma. Binchy: non-legal material, apparently inserted in order to illustrate the word torma in preceding paragraph)  
+## 664.6-9 (glossing torma.)  
+*Binchy: non-legal material, apparently inserted in order to illustrate the word torma in preceding paragraph*
 Ni teithig ann d’ingairi  
 7 ni dentaid faire  
 scolboth lais cach duini  
 7 tomra cacha baili  
-  
+
+Aaircsiud mo chill nis fair toir  
+in tec tomrad dom altoir  
+thochelthar leo mo taisi.  
+bu dereth dia sluag maisi.  
+
 ## 668.17-20 (misc. text on poets)  
 Srubard .i. gandbard .i. is gand a ndliugud, unde dr:  
 Nipa dimgach dia proind  
@@ -596,7 +657,7 @@ mac leigind indsi clotraind
 rob asrud a mbiad do gnath  
 gasa bilir 7 aran  
   
-## 682.14-15 (a passage on Cain and Abel)  
+## 682.14-15 (a passage on Cain and Abel, ed. Rodway CMCS 59)  
 7 i de rocet:  
 Beg mac bric, builid a bunn  
 mac is luga dobí ann  
@@ -626,25 +687,42 @@ is in ann aicilliugud ann sin 7 anacul, 7 deismirecht air:
 leth a hurlainne do fill  
 omu bruinne com’ aicill  
   
+> 1580.3-4  
+> is inann aicilliugud and sin 7 anacal, 7 deismirecht:  
+> leth a urlaine dofill  
+> om' urbruinde com'aicill  
+
 ## 800.1-2 ( a verse with commentary on slaying of outsider)  
 Cadh codhnach gan clet or fas  
 screpal co leth a lanbas  
 tria[n] comaile modh nach tim  
 is amla[id] sin fiarfaidhim  
   
-## 809.20-21 = 1558.17-18 (a glossary)   
+## 809.20-21 = 1558.17-18 (a glossary) = MD iii. 68   
 othar .i. tuarusdal, ut est  
 othur bliadna, ba breth gaeth  
 o gac righ, o gac rolaech  
 ach duthbhach fa hadbal ad (?)	  
 ni tabrad gin a tuillead.  
   
-#### 1558.17-18  
-othar .i. tuarastal 7 deismerecht air:  
-othur bliadna, ba breth gaeth  
-o gac righ o gac rolaoech  
-ach dubach fa hadhbal a bladh  
-ni tabrad gin tuillead.  
+> 1558.17-18  
+> othar .i. tuarastal 7 deismerecht air:  
+> othur bliadna, ba breth gaeth  
+> o gac righ o gac rolaoech  
+> ach dubach fa hadhbal a bladh  
+> ni tabrad gin tuillead.  
+
+> Met. Dinds. iii 68.25  
+> Othur bliadna, ba breth gáeth,  
+> ó cach ríg cach roláech,  
+> acht Dubthach, ba h-adbal ed,  
+> ní thabrad cen a thuilled. 
+
+    > ‘A year’s wage (it was a judgement of the wise)
+    > from every king to every warrior,
+    > only Dubthach would not give it
+    > without additional work, (it was a long space)’
+
   
 ## 871.1-874.34 (Gilla na Naomh Mac Aodhagháin’s tract on distraint)  
 Toichid brathu coitchinn cha  
