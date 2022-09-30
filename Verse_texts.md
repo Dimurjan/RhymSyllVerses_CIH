@@ -1,4 +1,4 @@
-## 109.19-22 = 216.13-15 (glosses to Tosach Bésgnai)  
+## **109.19-22 = 216.13-15** (glosses to Tosach Bésgnai)  
 Deismirecht air:    
 Meic na tri cetmuindter caemh    
 is mac adhlltraighe faraen    
@@ -10,44 +10,44 @@ in cumail seanorba nach suaill
 ni huili rosberat ann    
 acht in duine rosdligenn.    
     
-#### 216.13-15    
-morseisiur nosbeir co mbuaid    
-cumal tsenorba ni suaill    
-meic na tri cétmuinter caom    
-7 mac adaltraige imaraon    
+> 216.13-15    
+> morseisiur nosbeir co mbuaid    
+> cumal tsenorba ni suaill    
+> meic na tri cétmuinter caom    
+> 7 mac adaltraige imaraon    
     
-Fuidir 7 gormac glan    
-7 daorfuidhir in sechtmadh    
+> Fuidir 7 gormac glan    
+> 7 daorfuidhir in sechtmadh    
     
-## 250.19-21 (Bretha Étgid commentary):    
+## **250.19-21** (Bretha Étgid commentary):    
 deismeracht air-sin:    
 Inge cairpri dorochair    
 7 do fedleim nochruthaig    
 do cumaig eirc aebda in rand    
 gaet i ndigail con culainn    
     
-## 250.22-24 (Bretha Étgid commentary):    
+## **250.22-24** (Bretha Étgid commentary):    
 deismirecht air:    
 Conall cernach tuc ceann eirc    
 re taeb temrach im trath teirt    
 is truaigh in gnim dodechaid de    
 brised cridi uair aicle    
     
-## 339.17-20 (PHP to SM):    
+## **339.17-20** (PHP to SM):    
 deismerecht air-sidhe, ut dx in filedh:    
 Patraic rob athius go li    
 i naimsir tethosi    
 pritcuis soiscela cen meth    
 do tuaith molfaig meic miled    
     
-## 339.21-22 (PHP to SM):    
+## **339.21-22** (PHP to SM):    
 et persa do seancus. lin persanna int sencusa .i.    
 Laegairi corc dairi dur    
 patraic beneoin cairneach coir    
 rosa dubthach ferghus co feib    
 naei sailgis int sencuis moir.    
     
-## 345.12-15 (not marked out in CIH, Intro to SM):    
+## **345.12-15** (not marked out in CIH, Intro to SM):    
 ef tallad as ria n-es, deismirecht air-side, amail adubairt in file:    
     
 Fegsat filid fail i fos    
@@ -55,47 +55,50 @@ fenchas co feig la fergus
 ma iar mal cach maine imach    
 doroisce daine dubtach    
     
-## 354.6-7 (narrative in SM2 Cethairslicht Athgabálae)    
+## **354.6-7** (narrative in SM2 Cethairslicht Athgabálae)    
 7 deismirecht air:    
 Asal eochu garg a ngle    
 foitline 7 tibraite    
 enda ailill, an a clu    
 seser las torchair eochu    
     
-## 354.35-36    
-Is de rocet:    
-Foglaid forn mac do durn 7rl-    
-    
-## 355.31-33: (narrative in SM2, Binchy Ériu 16) = 883.20-22    
+## **355.31-33** (narrative in SM2, Binchy Ériu 16) = 883.20-22    
 is de-sin rocet:    
 Fergus mac leti in rig    
 luid a fertais rudraigi    
 uath donarfas, fa gann gle    
 ba si fochunn a ainme.    
     
-#### 883.20-22    
-is de-som rocet:    
-Fergus mac leidi in rig    
-luid i fertus rudraigi    
-huath donarfas fa gann ngle    
-ba he fochond a ainme.    
+> 883.20-22    
+> is de-som rocet:    
+> Fergus mac leidi in rig    
+> luid i fertus rudraigi    
+> huath donarfas fa gann ngle    
+> ba he fochond a ainme.    
     
   
-## 375.12 (SM2 commentary) = 1506.35-36 (O’Dav) = Auraic. ll. 4541-4    
+## **375.12** (SM2 commentary) = 1506.35-36 (O’Dav) = Auraic. ll. 4541-4    
 Anbobracht .i. ut dx Cormac:    
 Conberbar bracht    
 Nebron bru    
 Feisi cin lacht    
 Nin for tnu    
      
-#### 1506.35-36 (O’Dav)    
-Gle, .i. tife no toingfe, ut est gle fo erc nebron, .i. toing-sa fo nem niba geall dam an iarand    
-Berbarar bracht    
-I nebron bru    
-Feisi gen lacht    
-Inen for tnu    
+> 1506.35-36 (O’Dav)    
+> Gle, .i. tife no toingfe, ut est gle fo erc nebron, .i. toing-sa fo nem niba geall dam an iarand    
+> Berbarar bracht    
+> I nebron bru    
+> Feisi gen lacht    
+> Inen for tnu    
+
+> Auraic. 11. 4541-4  
+> bracht, .i. ut est  
+> Conberbtar brachta  
+> \[a Eg.] n-ebron bru  
+> Feisi gan lachta  
+> nach fuor tnu (.i. teine)   
     
-## 380.8-13 (SM2 commentary, translated by R. Smith (1942, 548)) = 1686.37-1687.3  
+## **380.8-13** (narrative in SM2 commentary, translated by R. Smith (1942, 548)) = 1686.37-1687.3  
 ut d.x.  
 Da mac partoloin cen acht  
 is iar dorigni in comurc  
@@ -113,32 +116,32 @@ in re ciataimairget
   
 Et adeir a mbaile .ii. aine 7 aiffe anmanda na da ingin.  
   
-#### 1686.37-1687.3  
-Ut dx.  
-Da mac parrtholoin cin acht  
-Is iat dorine in comhrac  
-Fer is fergnia cu med ngaul  
-Anmunda in da brathur  
+> 1686.37-1687.3  
+> Ut dx.  
+> Da mac parrtholoin cin acht  
+> Is iat dorine in comhrac  
+> Fer is fergnia cu med ngaul  
+> Anmunda in da brathur  
   
-7 desmberecht arin .c.na:  
-Fer 7 fergnia na fir  
-Is ed innisit na sin  
-Ain 7 iain docertuis sloigh  
-Da primingin parrthaloin  
+> 7 desmberecht arin .c.na:  
+> Fer 7 fergnia na fir  
+> Is ed innisit na sin  
+> Ain 7 iain docertuis sloigh  
+> Da primingin parrthaloin  
   
-Is umpud-sin sretha set  
-In re ciataimairget  
+> Is umpud-sin sretha set  
+> In re ciataimairget  
   
-7 atbeir i mbaile .ii. aine 7 aife anmunda in da ingen.  
+> 7 atbeir i mbaile .ii. aine 7 aife anmunda in da ingen.  
   
-## 457.34-458.14: (SM 22 Coibnes Uisci Thairdne, Binchy Ériu 17.73-76)  
+## **457.34-458.14** (SM 22 Coibnes Uisci Thairdne, Binchy Ériu 17.73-76)  
 Luan do thobar, toramh ngrind  
 in mairt ina diaidh don lind  
 cedain dardain, dail in raith  
 a tabairt dana saeraib.  
 …  
   
-## 551.10-14 (A text on the seven grades of filid, UB §20, verses from Auraicept 2223-30, gloss on the number of the ollam’s retinue, also Breatnach 1987: 8)  
+## **551.10-14** (A text on the seven grades of filid, UB §20, verses from Auraicept 2223-30, gloss on the number of the ollam’s retinue, also Breatnach 1987: 8)  
 desmirecht air:   
 Ceatrar ar fichid iar fir  
 fect feli in ollamhan rig  
@@ -149,33 +152,44 @@ deichnemar for fleghaib fuain (.i. duracht o rig 7 do rig dobeir in ceile)
 dleagar do a ngleri glansluaigh  
 isin fri badha blag  
 ceatardam in ollaman  
-  
-## 552.32-34 (on the repository of poetry of a fochloc, acc to Breatnach 1987:9 = MV ii §4) :  
-deismirecht for dein miing [rec. midseng]:  
+
+> Auraic. ll. 2223-30 (Do dhligegaibh dunta na nduan)  
+> Ceathrur ar fichit iar fir  
+> Fecht feili ollaman righ,  
+> Ochtur for caei, cen chessa,  
+> Da fer dec fria gnathleassa.  
+
+> Deichenbhur fri fleadha fuair  
+> Dlegair do in ghleiri caemshluaigh,  
+> It e sin fri bagha bladh,  
+> Ceithri damha in ollaman.   
+
+## **552.32-34** (on the repository of poetry of a fochloc, acc to Breatnach 1987:9 = MV ii §4) :  
+deismirecht for dein miing (rec. midseng):  
 Anmchad osraighi amra  
 cainfollo flaithri  
 dregan bruthmar bruiti alca  
 mac concearca in cathmile.  
   
-## 552.34-36 (= MV ii §7)  
+## **552.34-36** (= MV ii §7)  
 7 deismirecht ar dein mitruim:  
 Fo sen rogab aengus albain  
 alba tulchach treathantriathach  
 tuc do cathrachaib costach clarach  
 cosach lamach lethansciathach  
   
-## 552.36-37 (= MV ii §6)  
+## **552.36-37** (= MV ii §6)  
 deismirecht ar dein cenntruim .i. trom a tosach no urtruim:  
 Dungalach daghuineach   
 donar nard ndighlach  
   
-[repeated in 553.4-5]:  
+\[repeated in 553.4-5]:  
 Dungalach dalguinech  
 dolur nard nighalach  
 samhaisc ar cach primdein díb  
 colpach sé screball ar gach fodein.  
   
-## 552.37-553.1 (= MV ii §8)  
+## **552.37-553.1** (= MV ii §8)  
 Bennacht Dé for eithne nollgruim  
 ingin domnail dailes bir  
 lasa nibsim iar cuairt cathrach  
@@ -183,7 +197,7 @@ for .c. nathfach
 oiri ocht cethrair bathlach  
 seiscenn srathrach sruaim do midh.  
   
-## 553.1-2 ( = MV ii §3)  
+## **553.1-2** ( = MV ii §3)  
 Dian oiring .i. send a hoirter:  
 Currach lifi cona lí  
 ni cach rí dia robamair  
@@ -191,28 +205,34 @@ rucad a cenn uadh a cein
 isin sleib os bodhamair.  
   
   
-## 553.19-20 (Auraic. 2247-50, on the food for three)  
+## **553.19-20** (Auraic. 2247-50, on the food for three)  
 7 deismirecht fair:  
 Triar for fecht feile do feich  
 dam thogha do mac fuirmidh  
 dis for fleigh fil don fathach  
 aencae aenles rognathach  
+
+> Auraic. ll. 2247-50
+> Triar for fecht feili dofhidh, 
+> Dam thoga do mac fuirmidh,  
+> Dias for fleadhaibh, co fathach,  
+> Oen coe, oen leas roghnathach.  
   
-## 553.27-29 (example of setrad = MV ii §10) = 2320.22-23  
+## **553.27-29** (example of setrad = MV ii §10) = 2320.22-23  
 7 deismirecht ar setra:  
 Mo sciath o mac Maili hUma  
 ar tuinn tuba (.i. debtha) tonn fri gleis (.i. dibirgi)  
 glaister tul tulcind mbugha  
 bainter tonn tuga ngéis  
   
-#### 2320.22-23  
-Anamain an aisdi-sin, amail ita ann so  
-Mo sciath o mac mailumae  
-Ar tuind tuba tond fri gles  
-Glaisitir a thul tailchend mbuga  
-Bainigitir a thond tuc nges  
+> 2320.22-23 (UB ver. C)  
+> Anamain an aisdi-sin, amail ita ann so  
+> Mo sciath o mac mailumae  
+> Ar tuind tuba tond fri gles  
+> Glaisitir a thul tailchend mbuga  
+> Bainigitir a thond tuc nges  
   
-## 553.29-34 (example of sainemain = MV ii §11)  
+## **553.29-34** (example of sainemain = MV ii §11)  
 7 deismirecht ar sainemain, no deismirecht ar setruth ngairit, da richt, 7 gne nosdeilighid:  
 Tulbraing tarblaing tuathach namhna  
 nocha tarblaing acht nach namhna  
@@ -221,39 +241,81 @@ tar cenn ech, tar cenn buirdhe
 Adsoi (.i. fosaigus) cridhe cernn (.i. buaid) fri gnima  
 brisus roi frisna righaib .i. isin bliadhain tanaisi dogní  
   
-## 555.35-36 (not marked by Binchy) = 650.26-28 = 1535.29-32 = 1605.23-26 = 2321.26-29  
+## **555.35-36** (not marked by Binchy) = 650.26-28 = 1535.29-32 = 1605.23-26 = 2321.26-29  
 deismirecht arin aidmnigh ndrisicon:  
 A ben fuil isin cuili  
 in tabrai biadh do duine  
 tabair damh a ben bán  
 soill loimm im is arán  
   
-## 650.26-29:  
-7 desmirecht seo arin aimneach ndrisiucan:  
-.i. A ben uil isin chuillidh  
-in tabrai biadh do duine?  
-tabhair damh, a ben ban  
-saill, loim, im 7 aran.  
+> 650.26-29:  
+> 7 desmirecht seo arin aimneach ndrisiucan:  
+> .i. A ben uil isin chuillidh  
+> in tabrai biadh do duine?  
+> tabhair damh, a ben ban  
+> saill, loim, im 7 aran.  
   
-Ata form  
-mene tuca biadh im dornd  
-beraid t’eneach a ben ban  
-is indisfed dum deaan  
+> Ata form  
+> mene tuca biadh im dornd  
+> beraid t’eneach a ben ban  
+> is indisfed dum deaan  
   
+> 1535.29-32  
+> deimirecht sé arin aidmnech ndrisiucan   
+> .i. a ben fuil isan cuiligh  
+> in tabraid biad duine  
+> tabair damh a ben ban  
+> saill liom im 7 aran  
+
+> Ata form  
+> maine tuca biad im dornn  
+> berat heinech a ben ban  
+> 7 innisfet dom deadhan  
+
+> 1605.23-26  
+> 7 desmirecht seo aran aidmnig ndriusiucan  
+> A ben uil isin cuili  
+> in tabraid biad do duine  
+> in tabrai dam a ben ban  
+> saill loim 7 aran  
+
+> Ata form  
+> meni tuga biad im' dorn  
+> berat th'eneach a ben ban  
+> is indisfet dom deaan  
+
+> 2321.26-29  
+> 7 deismirecht seo aran aiudmnig ndrisiucin  
+> A ben fuil isin cuilid  
+> ni thabraid biad do duine  
+> in tabraid damh a ben ban  
+> saill loim im 7 aran  
+
+> Ata form  
+> meni tuca biad am dorn  
+> berad th'enach a ben ban  
+> 7 indisfed dom eaan  
   
-## 555.37-38 (not marked by Binchy) = 650.29-31 = 1535.32-34 = 2321.30-31 (MV ii §132)  
+## **555.37-38** (not marked by Binchy) = 650.29-31 = 1535.32-34 = 2321.30-31 (MV ii §132)  
 deismirecht arin tuaiscleimnech tamain:  
 Taili in bairghin tuc in mbairgin  
 7 blodh don bloinic moir  
 maith t’aithair is do maithair  
 taili in mblathaig uba déoigh  
   
-#### 650.29-31:  
-7 desmirecht seo arin tuisclemnech tamain:  
-Taili mbairgen  
-7 blagh do blonaig mhoir  
-maith du mathathair 7 t’athair  
-taili in blathaigh ina deoghaidh  
+> 650.29-31:  
+> 7 desmirecht seo arin tuisclemnech tamain:  
+> Taili mbairgen  
+> 7 blagh do blonaig mhoir  
+> maith du mathathair 7 t’athair  
+> taili in blathaigh ina deoghaidh  
+
+> 2321.30-31  
+> & desmisrecht arin tusclemnig thamuin  
+> Taili in mbairgin  
+> 7 blo do blonaig moir  
+> maith do mathair 7 t'athair  
+> taili mblathaig ina deoig  
   
 ## 555.41-556.2 (not marked by Binchy) = 650.31-33 = 1535.34-36 = 1605.28-30 = 2321.32-33 (MV ii § 134)  
 deismirecht arin mbuaibléoraigh oblaire:  
