@@ -705,23 +705,23 @@ o gac righ, o gac rolaech
 ach duthbhach fa hadbal ad (?)	  
 ni tabrad gin a tuillead.  
   
-> 1558.17-18  
+> **1558.17-18**  
 > othar .i. tuarastal 7 deismerecht air:  
 > othur bliadna, ba breth gaeth  
 > o gac righ o gac rolaoech  
 > ach dubach fa hadhbal a bladh  
 > ni tabrad gin tuillead.  
 
-> Met. Dinds. iii 68.25  
+> **Met. Dinds. iii 68.25 (Líamuin)**  
 > Othur bliadna, ba breth gáeth,  
 > ó cach ríg cach roláech,  
 > acht Dubthach, ba h-adbal ed,  
 > ní thabrad cen a thuilled. 
 
-    > ‘A year’s wage (it was a judgement of the wise)
-    > from every king to every warrior,
-    > only Dubthach would not give it
-    > without additional work, (it was a long space)’
+   > ‘A year’s wage (it was a judgement of the wise)
+   > from every king to every warrior,
+   > only Dubthach would not give it
+   > without additional work, (it was a long space)’
 
   
 ## 871.1-874.34 (Gilla na Naomh Mac Aodhagháin’s tract on distraint)  
@@ -737,8 +737,9 @@ sech taeb temrach im trath teirt
 truag in gnim dorala de  
 robris craide i nuar naicle  
   
-## 1028.2-12 (Cóic Conara Fuigill prologue, ed. and trans. Archan 320-1) = 1280.13-21  
-amail asbert in file:  
+## 1028.2-12 (Cóic Conara Fuigill prologue, ed. and trans. Archan 2007: 320-1) = 1280.13-21  
+Cia lin do chunntairismib caendenmacha aithfeghtar sunn dona .u. conairib fuigill?  
+.nī. a tri. Cadeat? .i. roscad 7 fasach 7 testemain, amail asbert in file:  
 Cúic conaire sund gu sse  
 doroine cermna file  
 gid a .u. aderar ann  
@@ -752,7 +753,7 @@ re cach conair a caemainm
 Ciall toáisce fir rofes  
 etargleodh dligid diles  
 7 ciallrunugud cert cáid  
-do rire [rec. reir] cermna caidh conaich  
+do rire \[rec. reir] cermna caidh conaich  
   
 Fithisugud techta trom  
 athchomharc fir re hoghomh  
@@ -764,7 +765,36 @@ file ba fearr d’filedaib
 ina tigh fa thund tana  
 rocum na .u. conaire.			conairi  
   
-## 1031.12-14 (Cóic Conara Fuigill, Archan 336-7)  
+> **1280.13-21**  
+> Cia lion do conntairsimibh caonndenmacha athfregar sund dona .u. conairib .f.?  
+> .nī. a tri .i. roscad 7 fasach 7 testemain; amail ispert in fili:  
+> Cuic conaire sunn co se  
+> dorinne cermna file  
+> gid a .u. aderar ann  
+> is aonconair iar fuigeall  
+
+> Na .u. conaire caidhe  
+> go .u. nanmandaibh aille  
+> sloinnfit a foghail re ngairm  
+> re cach conaire caomainm  
+
+> Ciall toaisce fir rofes  
+> itergleod dligid cen les  
+> ciallrunugud cirt caidh  
+> do rer cermna caidh conaich  
+
+> Fithisiugud tecta trom  
+> athcomarc fir re hoghum  
+> is iat-sin ré snim go se  
+> go fír na cuic conaire  
+
+> Cermna fili fa modh mil  
+> fili ba ferr d'filedhaibh  
+> ina thigh fa tund tana  
+> rochum na .u. conanara  
+
+## 1031.12-14 (Cóic Conara Fuigill, Archan 2007: 336-7)  
+7 as e ainmed a ta eraic sechtair uair tagra ní dona uiii. sairbriathraib do rad ris, 7 is iat so iat.  
 Ocht sarbriathra sár gen meth  
 i ndlegar lanlog enech  
 fuichi do tuba re nec  
@@ -772,23 +802,23 @@ doní ogul don airech
   
 inann leis ‘s a beth a cacht  
 tuilidecht 7 talmaidecht  
-claime leim [rec. lime] lathar ngle  
-caiche bura [rec. buidre] bacaide  
+claime leim \[rec. lime] lathar ngle  
+caiche bura \[rec. buidre] bacaide  
   
-## 1035.13-14 (Cóic Conara Fuigill, Archan 354-5) = 1683.20-21  
+## 1035.13-14 (Cóic Conara Fuigill, Archan 2007: 354-5) = 1683.20-21  
 7 desmirecht air:  
 Secht .s. airech eirim nard  
 conoat enech línib lerg  
 caire dabach esgar ian  
 arathar echsrian no delg  
   
-#### 1683.20-21 (Cethairslicht Athgabála commentary, on Secht seotu tige airiuch)  
-Secht .s. airech, eraim narg no nard  
-Fogniad einiuch linuib lerg  
-Caire, dobuch, escra, ian  
-Arathar, echsrian no delg  
+> **1683.20-21** (Cethairslicht Athgabála commentary, on Secht seotu tige airiuch)  
+> Secht .s. airech, eraim narg no nard  
+> Fogniad einiuch linuib lerg  
+> Caire, dobuch, escra, ian  
+> Arathar, echsrian no delg  
   
-## 1044.14-15 (citation with commentary)  
+## 1044.14-15 (citation with commentary, on the types of wound)  
 Cnocbeim is fuiliugud feig  
 is a ferthain ar aonbeim  
 ioc isin cnocbeim a bus  
@@ -837,7 +867,7 @@ direch ndet fri saighe sét
 7 bréc na briathar mbuain.  
   
 ## 1078.12-14 (DDC)  
-Art .i. uasal .i. deus. Art dano .i. cloch ut dx. G[u]aire:  
+Art .i. uasal .i. deus. Art dano .i. cloch ut dx. G\[u]aire:  
 docelat mor   
 namra nán in airtire  
 bítí for lighu mair cein  
@@ -850,12 +880,12 @@ Do beth co bodba  .i. dearg. o bir sgin
 Is mh’art fine da focul  
 Locadh in greissi cinil  
   
-#### 1487.34-35 (O’Dav)  
-Coimdi .i. minic no gnathac. ut est  
-Ni coimdi tin mo tsamla  
-Dober co badba o ber sgin  
-Is mo art fine ‘gha focal  
-Locad mo greisi cinil  
+> **1487.34-35** (O’Dav)  
+> Coimdi .i. minic no gnathac. ut est  
+> Ni coimdi tin mo tsamla  
+> Dober co badba o ber sgin  
+> Is mo art fine ‘gha focal  
+> Locad mo greisi cinil  
   
 ## 1081.3-4 (a glossary)  
 Comol .i. ceangal ut est  
