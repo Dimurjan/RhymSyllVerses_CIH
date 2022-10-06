@@ -944,7 +944,11 @@ do bhí caill trít ar cach leth
 tír na néices mhaine mhaill  
 dogairter de ría naicill  
 
-> MD 1 50 v17  
+> MD 1 50 v17 (Achall)  
+> In t-inad atáit ar n-eich  
+> robói caill trít ar cech leith  
+> tír ind écis Maine maill  
+> nogairthe de ria nAchaill.  
   
 ## 1093.1-2 (a glossary = Thes. ii. 337-8 Broccán’s hymn)  
 Comailliudh .i. atbronn 7 .d.a.  
@@ -953,7 +957,11 @@ ba slán cach neimh gach ngalar
 ba mó amhra ar.ii.  
 don chloich dorinne salann  
 
-> Thes. ii. 337-8 Broccán’s hymn  
+> **Thes. ii. 337-8 Broccán’s hymn**  
+> Sēnais in caillig comail  
+> ba slān cen neim cen galar  
+> ba mó amru arailiu  
+> din chloich dorigne saland  
   
 ## 1093.6-7 (a glossary)  
 Dindba .i bocht 7 dindba .i. saibhris 7 .d.a.:  
@@ -998,12 +1006,12 @@ focheird crand mbūarach
 la gach funghaire solus  
 sreathaight(h)er eich fo dubhrothuibh dorus.  
   
-*This is the praise with a hue of satire, as Athairne composed [it]:  
-Dúanach the Dark,  
-dark and wantonous, supporting and full of troops,  
-who places the bar of spancels,  
-by each bright daybreak,  
-horses are arranged under dark wheels by the doorway.*  
+> This is the praise with a hue of satire, as Athairne composed \[it]:  
+> Dúanach the Dark,  
+> dark and wantonous, supporting and full of troops,  
+> who places the bar of spancels,  
+> by each bright daybreak,  
+> horses are arranged under dark wheels by the doorway.  
   
   
 ## 1132.26-28 (BND)  
@@ -1025,27 +1033,27 @@ dona bi iarair
 asber fri derusc coisi  
 treimsi fri bliadain.  
   
-#### 2315.39-2316.2 (canonical text)  
-Oenann fri derosc laimi  
-dona bi iarair  
-asbeir fri derosc coisi  
-tremsi for bliadain  
+> **2315.39-2316.2** (canonical text)  
+> Oenann fri derosc laimi  
+> dona bi iarair  
+> asbeir fri derosc coisi  
+> tremsi for bliadain  
   
-Bi bliadain co fa tri  
-fri trenderosc cinn  
-conidnoiscfe di sunn  
-tractfaid belrai binn  
+> Bi bliadain co fa tri  
+> fri trenderosc cinn  
+> conidnoiscfe di sunn  
+> tractfaid belrai binn  
   
-#### 1218.35-1219.8:  
-Aonann fri derusc laime  
-dona bí iarrair  
-asbeir fri derusc choisi  
-treimsi for bliadain  
+> **1218.35-1219.8**:  
+> Aonann fri derusc laime  
+> dona bí iarrair  
+> asbeir fri derusc choisi  
+> treimsi for bliadain  
   
-Bliadain fa tri  
-fri derusc slainti in cinn trein  
-conroisce do thsunn  
-trachtaid belra binn.  
+> Bliadain fa tri  
+> fri derusc slainti in cinn trein  
+> conroisce do thsunn  
+> trachtaid belra binn.  
   
 ## 1245.10-11 (unmarked by Binchy, c and d may have been switched around)  
 deismirecht fair  
