@@ -436,14 +436,14 @@ ná\[d] demogaid mesc máa
 dligid cumail for a secht  
 dó a díriu dán  
   
-## 609.15-17 (DDC, unmarked by Binchy) = 1070.35-38 (DDC) = OM1.268 (YBL only)  
+## 609.15-17 (DDC 1.159, unmarked by Binchy) = 1070.35-38 (DDC) = OM1.268 (YBL only)  
 Cúthal .i. tlaith, ut dr in fili  
-DIam cuthal craide tlaith  
+Diam cuthal craide tlaith  
 rombathad for morthuinn muaid  
 matain mir docóid ba moch  
 graid maic lir ar loch fa tuaith  
 
-> **1070.35-38** (DDC)
+> **1070.35-38** (DDC 2.71)
 > Cuthal .i. tlaith, ut est in fili:  
 > Diam cuthal craidhe tlaith  
 > rombathadh for mortuinn muaidh  
@@ -459,55 +459,69 @@ graid maic lir ar loch fa tuaith
 
 > Also found on an inserted slip of vellum in TCD MS H 3.18 (1337), fol. [v]v, noted in Kobel (2020), 197.  
   
-## 611.38-39 (DDC s.v. droch) = 1072.41-3  
+## 611.38-39 (DDC 1.257) = 1072.41-3 = OM 1.350  
 Droch dano .i. roth carpat, ut dx mor muman.   
 Is annam iar nimrim  
 iter caisil 7 loch  
 inid aithenn findabrach  
 feras arán frim da droch  
 
-> **1072.41-3**  
+> **1072.41-3 (DDC 2.139)**  
 > Droch dano .i. roth carpait ut dix. mor muman  
 > Is annamh iar nimrim  
 > iter chaisil 7 loch  
 > inid aithend finnabhrath  
 > ferass arán frim da droch  
+
+> OM 1.350  
+> Droch .i. roth carpait, ut dixit Mor Muman.   
+> As annaln iar n-imrim,   
+> iter Caisil ocus loch,   
+> inad atend findabrach,   
+> feras amran frim dá droch. 
   
-## 612.29-31 (DDC s.v. Dobrach) = 1073.10-14  
+## 612.29-31 (DDC 1.283) = 1073.10-14 = CormY add.496  
 Dobrach .i. fliuchaide ut dr. fer muman i ndain in meirlig  
 Ulcha dobrach i ndomnach  
 i luann i máirt mac feirnech  
 fo bratach senrach soimlech  
 sruamach maignech míl meirlech  
 
-> **1073.10-14**  
+> **1073.10-14 (DDC 2.159)**  
 > Dobrach .i. fliuchaidhe, ut dx fear muman i nduain in meirlid  
 > Ulcha dobrach i ndomnach  
 > a luan a mairt mac feirnech  
 > fo bratach senrech soimlech  
 > sruamach maighnech mil merlech  
+
+> CormY add.496  
+> Dobrach i. fliuchaide, ut est .i. Fer Muman   
+> a nduain an merligh Ulcha dobrach a ndomnach,   
+> a lunn, a mairt mac meirnech,   
+> fo bratach senrech sroiglech   
+> sruamach maignech mil meirlech. 
   
-## 613.4-5 (DDC s.v. Duillenn) = 1073.30-31  
+## 613.4-5 (DDC 1.298) = 1073.30-31  
 Duillenn .i. gae, ut dx fer muman:  
 Is dána drech daimine  
 iter ócaib eirechtae  
 is a sithmbrugh suidithe  
 leicith duillen ndeilithe.  
 
-> **1073.30-31**  
+> **1073.30-31 (DDC 2.168)**  
 > Duilleán .i. gae ut dx fer muman  
 > Is dana drech daimine  
 > iter ocaib eirichtae  
 > is a sithmbruigh  
   
-## 617.31-33  (DDC, s.v. Muldach = CormY 944) (unmarked by Binchy) = 1075.33-36  
+## 617.31-33  (DDC 1.489) (unmarked by Binchy) = 1075.33-36 = DDC 3.60 = DDC 4.65 = CormY 944   
 Muldach .i. seiscenn, ut dx. ua siagail ag tothlugud cairr  
 Slicht a da gae tre gach mullach  
 cullach flescach férach  
 amal cairr a mberar lamhach  
 tre condold fand ferach  
   
->  **1075.33-36**  
+>  **1075.33-36 (DDC 2.263) **  
 >  Maullach .i. seis .i. ut dx úa siagail ag tothlugud cairr 
 >  slicht a da ghae tre cach muallach  
 >  cullach flescach ferach  
