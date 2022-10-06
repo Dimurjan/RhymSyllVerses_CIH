@@ -436,14 +436,37 @@ ná\[d] demogaid mesc máa
 dligid cumail for a secht  
 dó a díriu dán  
   
-## 611.38-39 (Dúil Droma Cetta s.v. droch) = 1072.41-3  
+## 609.15-17 (DDC, unmarked by Binchy) = 1070.35-38 (DDC) = OM1.268 (YBL only)  
+Cúthal .i. tlaith, ut dr in fili  
+DIam cuthal craide tlaith  
+rombathad for morthuinn muaid  
+matain mir docóid ba moch  
+graid maic lir ar loch fa tuaith  
+
+> **1070.35-38** (DDC)
+> Cuthal .i. tlaith, ut est in fili:  
+> Diam cuthal craidhe tlaith  
+> rombathadh for mortuinn muaidh  
+> madain mir dochoidh ba moch  
+> graidh maic lir ar loch fa tuaidh  
+
+> **OM 1.268**  
+> Cuthal .i. tlaith, ud dicitur.   
+> Diam cuthal croide tlaith,   
+> romuchad for morthuind muaid,   
+> matin mir dochoid ba moch,   
+> graigh Meic col. 98 lir tar loch fotuaidh. 
+
+> Also found on an inserted slip of vellum in TCD MS H 3.18 (1337), fol. [v]v, noted in Kobel (2020), 197.  
+  
+## 611.38-39 (DDC s.v. droch) = 1072.41-3  
 Droch dano .i. roth carpat, ut dx mor muman.   
 Is annam iar nimrim  
 iter caisil 7 loch  
 inid aithenn findabrach  
 feras arán frim da droch  
 
-> 1072.41-3  
+> **1072.41-3**  
 > Droch dano .i. roth carpait ut dix. mor muman  
 > Is annamh iar nimrim  
 > iter chaisil 7 loch  
@@ -457,7 +480,7 @@ i luann i máirt mac feirnech
 fo bratach senrach soimlech  
 sruamach maignech míl meirlech  
 
-> 1073.10-14  
+> **1073.10-14**  
 > Dobrach .i. fliuchaidhe, ut dx fear muman i nduain in meirlid  
 > Ulcha dobrach i ndomnach  
 > a luan a mairt mac feirnech  
@@ -471,7 +494,7 @@ iter ócaib eirechtae
 is a sithmbrugh suidithe  
 leicith duillen ndeilithe.  
 
-> 1073.30-31  
+> **1073.30-31**  
 > Duilleán .i. gae ut dx fer muman  
 > Is dana drech daimine  
 > iter ocaib eirichtae  
@@ -484,7 +507,7 @@ cullach flescach férach
 amal cairr a mberar lamhach  
 tre condold fand ferach  
   
->  1075.33-36  
+>  **1075.33-36**  
 >  Maullach .i. seis .i. ut dx úa siagail ag tothlugud cairr 
 >  slicht a da ghae tre cach muallach  
 >  cullach flescach ferach  
@@ -498,7 +521,7 @@ oc raith colgan ina fíu
 ara meince asberar fris  
 osment osment a drochéicis.  
 
-> 1076.21-24  
+> **1076.21-24**  
 > Osmenach .i. sgrudun o meanmain 7 a mebrugud dogni ut dx int éicsine i farrath thseancáin  
 > Ni mongenar fil anniu  
 > oc raith colgan ina fiu  
@@ -512,7 +535,7 @@ is dighnad lais uisce púr
 ibhid cailech betha búain  
 i flaith iar nól uisque úair  
 
-> 1077.16-20  
+> **1077.16-20**  
 > Pur .i. glan, oní is purus ut est 
 > Intí charus crabhadh ngúr  
 > is dignadh lais uisci púr  
@@ -526,7 +549,7 @@ iter fedaib fidmuiniu
 beirthium dubrón bes ogus  
 in cunnrad dorigenus.   
 
-> 1077.40-42  
+> **1077.40-42**  
 > Timairle .i. airli tim  
 > Domic timairle indiu  
 > iter fedaibh fidhmhuiniu  
@@ -592,7 +615,7 @@ a meic muire ingine
 isum aithrech a crist chain  
 domrat sist fo domenmain  
   
-> 1595.13-14  
+> **1595.13-14**  
 > Desmirecht arindi is pito proind:  
 > Pit beg romroimlius inde  
 > A meic muiri ingine  
@@ -607,7 +630,7 @@ Da mer ina doimni derb ni cel
 A lan do mhil ni fil lusc  
 La cach fichit bairgen buan in cusc  
   
-> 1599.36-38  
+> **1599.36-38**  
 > NO MIL .i. a loigidecht-sin do mil, amail ata:  
 > Easc a laim bona a mer  
 > Da mer ina doimni derb ni cel  
@@ -615,7 +638,7 @@ La cach fichit bairgen buan in cusc
 > A lan do mil ni fil lusc  
 > La cach firbairgin buan in cusc  
   
-> 2266.36-38  
+> **2266.36-38**  
 > Amail ata:  
 > Esca laime bona mer  
 > ‘na domni dearb ni chel  
@@ -629,12 +652,12 @@ NO GRUS a loighidacht-sin do gruth
 Da dornn letat a ingne tailc  
 Orrlach inai thighed gened bailc  
   
-> 1599.41-42  
+> **1599.41-42**  
 > NO GRUS .i. a loigidhicht-sin do grut:  
 > Da dorn le traigidh tailc  
 > Ordlac ina tiget cenid bailc  
   
-> 2267.2   
+> **2267.2**   
 > .i. da dornd leitheat tanaige thailc  
 > Ordlach ‘na tiget genni bailc  
   
@@ -687,7 +710,7 @@ is in ann aicilliugud ann sin 7 anacul, 7 deismirecht air:
 leth a hurlainne do fill  
 omu bruinne com’ aicill  
   
-> 1580.3-4  
+> **1580.3-4**  
 > is inann aicilliugud and sin 7 anacal, 7 deismirecht:  
 > leth a urlaine dofill  
 > om' urbruinde com'aicill  
@@ -831,13 +854,6 @@ imma brat di breisiu
 ni faghadh failti laidchen clamh  
 cidh é marus tar meisi  
   
-## 1070.35-38 (DDC)  
-Cuthal .i. tlaith, ut est in fili:  
-Diam cuthal craidhe tlaith  
-rombathadh for mortuinn muaidh  
-madain mir dochoidh ba moch  
-graidh maic lir ar loch fa tuaidh  
-  
 ## 1071.5-8 (DDC)  
 Cró .i. bás, ut dx Cormac:  
 Pecadh buan oll brath cath bí  
@@ -894,12 +910,18 @@ comol caire .c. cuire
 breg ilar líth re labra  
 acht adhrad rí na nuile  
   
-## 1092.28-29 (a glossary = LL 2117)  
+## 1092.28-29 (a glossary = LL 2117 De Flaithiusaib Érenn)  
 Seach, .i. deimin 7 deismirecht air:  
 Áit a mbidh in rígan ruanaigh  
 cuanaigh cuir co ceillid  
 finnabhair finn a gléghen  
-sec bá féimen bá féinid.  
+sec bá féimen bá féinid.
+
+> LL 2117-20  
+> Áit i mbaí ind rigan rúanaid  
+> Cheltchair chuanaig cauir chéilig  
+> Findabair find a glégen  
+> sech ba femen ba fennid  
   
 ## 1092.32-33 (a glossary. = MD i 50 v17)  
 Acaill .i. a caill robeaneth 7 .d. .a.  
@@ -907,6 +929,8 @@ Int inat i táit ar n-eich
 do bhí caill trít ar cach leth  
 tír na néices mhaine mhaill  
 dogairter de ría naicill  
+
+> MD 1 50 v17  
   
 ## 1093.1-2 (a glossary = Thes. ii. 337-8 Broccán’s hymn)  
 Comailliudh .i. atbronn 7 .d.a.  
@@ -914,6 +938,8 @@ Sénais in caillech comailliud
 ba slán cach neimh gach ngalar  
 ba mó amhra ar.ii.  
 don chloich dorinne salann  
+
+> Thes. ii. 337-8 Broccán’s hymn  
   
 ## 1093.6-7 (a glossary)  
 Dindba .i bocht 7 dindba .i. saibhris 7 .d.a.:  
