@@ -436,6 +436,71 @@ ná\[d] demogaid mesc máa
 dligid cumail for a secht  
 dó a díriu dán  
 
+## 605.11-12 (DDC 1.11, unmarked by Binchy) = 1078.12-14 = CormB 28 = CormM 24 = CormY 26  
+Art .i. cloch. ut dixit guaire   
+Docealat mor   
+namra na harteni.   
+bite for lighe marcain.   
+micc adha maic marcine.   
+
+> 1078.12-14 (DDC 2.367)  
+> Art .i. uasal .i. deus. Art dano .i. cloch ut dx. G\[u]aire:  
+> docelat mor   
+> namra nán in airtire  
+> bítí for lighu mair cein  
+> mic aeda mic maircire  
+
+> CormB 28  
+> Art tréide fordongair. art .i. uasal. unde dicitur fine airt (ł art fine),   
+> art .i. dia undo dicitur (Eochaid find) fuath n-airt .i. fuath dee .i. ar cæime (in fir sin).   
+> Item Cúchulainn (post mortem) dicere perhibetur domemaidh art uasal .i. dia uasal.   
+> ocus art .i. cloch (ł lec lige cuius diminutiuum) arteine .i. clocheni unde uel inde dixit Guaire Aidne   
+> dochelit mor   
+> n-ámra ind airtine   
+> bede forlige Marcáin (ł Maircini)   
+> maic Æda maic Marceine. 
+
+> CormM 24  
+> Art .i. treidhe fordingair .i. art .i. uasal unde dicitur art fine  
+> art .i. dia unde dicitur fuath nart .i. fuath dei ara cæimhe.   
+> Iteim cuculainn post mortum dicere perhibetur dommenad art uasal   
+> art .i. dan cloth cuius diminutiuum est arteine inde dixit guaire aigne   
+> docæladh mori   
+> nainre na harteine   
+> bithe foralige mharcain   
+> mic ædha mic mair ceine 
+
+> CormY 26  
+> Artt trede fordingair .i. art uasal, unde dicitur art fine.   
+> art .i. dia, unde dicitur Eochaid Find Fuath n-Airt .i. fuath dea fair ar a chaime.   
+> Item Cuculainn post mortem dicire perhibetur domemaid Art uasal .i. dia uasal.   
+> art dono cloch no leac ligen, cuius diminutiuum artene .i. cloichene .i. ainm disbecad, unde Guaire Aidne dixit   
+> docealat mor   
+> n-amra ind airtene   
+> biti for lige Marcain   
+> maic Aedha maic Maircene. 
+
+## 607.4-5 (DDC 1.75, unmarked by Binchy) = 1070.19-21 = CormY Add.180  
+Breisiu .i. diubairsi, ut dicitur ornait acained laidgnein.   
+Dethbir dam ceiuntaise   
+in mabrat di breisi.   
+ni at failte laidhgnén clam.   
+cid é mara tarm'eisi. 
+
+> 1070.19-21 (DDC 2.16)  
+> Breisidh .i. diubairsi …  
+> Dethbir dā ce iuntais  
+> imma brat di breisiu  
+> ni faghadh failti laidchen clamh  
+> cidh é marus tar meisi  
+
+> CormY Add.180  
+> Breisiu .i. teibrisi, ut dixit Ornait oc cainiud Guaire no Laidgein,   
+> deitbeir damh ceni andais   
+> adam abra do breisi,   
+> ni ba failid Laignen clamh   
+> cid e marad tarm eisi. 
+
 ## 609.15-17 (DDC 1.159, unmarked by Binchy) = 1070.35-38 (DDC) = OM1.268 (YBL only)  
 Cúthal .i. tlaith, ut dr in fili  
 Diam cuthal craide tlaith  
@@ -567,13 +632,48 @@ dubtíre da glas fota.
 > emde na tairset ócca  
 > duib tíre da ghlas fóta  
 
-> **OM1.481**	
+> **OM1.481**  
 > Emdæ .i. fomnæ. ł bid do menmæ.   
 > A mic, ni mait in dogni,   
 > indred tire Muscraide.   
 > Eimde na tarset óga   
 > dub-Tire da Glas fotæ.
- 
+
+## 616.15-16 (DDC 1.429) = 1074.12-15 = DDC 3.7 = DDC 4.5 = O'M 1.789
+Lang .i. brég ł mebul. ut est .s. torpuidh.   
+Bés do langaib línib cíall.   
+grían do taithne tar adaigh uar.   
+dírech ndét (fri saigid .s.)   
+⁊ brég na mbriathar mbuan 
+
+> 1074.12-15 (DDC 2.211)  
+> Lang .i. brég bon mebhul ut dx torpaidh:  
+> Bes do langaibh linibh ciall  
+> grian do taithneth tar aigh uar  
+> direch ndet fri saighe sét  
+> 7 bréc na briathar mbuain.  
+
+> DDC 3.7  
+> Lang .i. breg. no mebul. ut dicitur torpuid   
+> Bes do languib línib ciall.   
+> grian do taithne tar aig— uar.   
+> direch ndet fri saighi{n?}d set   
+> ⁊ breg na mbriathar mbuan. 
+
+> DDC 4.5  
+> lang .i. breg no mebul ut dicitur torpuid  
+> bes do languib linib ciall.   
+> grian dotaithne tar aigh - uar.   
+> direch ndet fri saighid set   
+> ⁊ breg na mbriathair mbuan. 
+  
+> O'M 1.789  
+> Lang .i. brecc ł mebal, ut dixit Senchan Torpeist.   
+> bes do langaib linaib ciall.   
+> grian do taitnem tar aig uar.   
+> direch nded fri saigid set.   
+> ⁊ brecc na mbriatar mbuan. 
+
 ## 617.31-33  (DDC 1.489) (unmarked by Binchy) = 1075.33-36 = DDC 3.60 = DDC 4.65 = CormY add.944   
 Muldach .i. seiscenn, ut dx. ua siagail ag tothlugud cairr  
 Slicht a da gae tre gach mullach  
@@ -602,7 +702,7 @@ tre condold fand ferach
 > amal chairr im berar lamach   
 > tre connol fann feruch. 
 
-> **CormY add.944**
+> **CormY add.944**  
 > Mualach .i. seiscend, ut dicitur Rechtgal ó Siadhail   
 > slicht a da gai tria cach mualach,  
 > cuanach flescach ferach,   
@@ -610,14 +710,14 @@ tre condold fand ferach
 > tria condall fand ferach. 
 
 ## 618.34-36 (DDC 1.532) = 1076.21-24  
-Osmannadh .i. scrútadh o menmain 7 a meabhrugud dogní, ut dx int éicsine i farrad sencáin  
+Osmennadh .i. scrútadh o menmain 7 a meabhrugud dogní, ut dx int éicsine i farrad sencáin  
 Ni mogenar fil andíu  
 oc raith colgan ina fíu  
 ara meince asberar fris  
 osment osment a drochéicis.  
 
 > **1076.21-24 (DDC 2.315)**  
-> Osmenach .i. sgrudun o meanmain 7 a mebrugud dogni ut dx int éicsine i farrath thseancáin  
+> Osmennadh .i. sgrudun o meanmain 7 a mebrugud dogni ut dx int éicsine i farrath thseancáin  
 > Ni mongenar fil anniu  
 > oc raith colgan ina fiu  
 > ari meinci asberar fris  
@@ -651,12 +751,33 @@ in cunnrad dorigenus.
 > beirthium dubrón bes ogus  
 > in cunnradh dorigenus
   
-## 621.21-22 (DDC 1.630)  
+## 621.21-22 (DDC 1.630) = O'M 1.110 = O'M 3.111 = O.M 4.110    
 Aiss .i. aubhann ut dx. in fili  
 Mac conaigheth cosnam fris  
 ni aiss tenid na mid nais  
 céne snides snechta find  
 fidba for lind latha lais  
+
+> OM1.110  
+> Ais .i. abann, ut dixit in fili   
+> Mac Conaing cosnamh fris,   
+> ni ais tenid na midhnais,   
+> cene snigess snechta finn,   
+> fidba for lind latha lais. 
+
+> OM3.111  
+> Ais (MARG-L .r.) .i. aband, ut dixit in fili.   
+> Mac Conaing cosnam fris.   
+> ni ais tenid na midnais.   
+> cene snigess snechta find.   
+> fidba for lind latha lais.   
+
+> OM4.110  
+> Ais .i. abann, ut dixit an file   
+> Mac Conaing cosnamh fris,   
+> ni ais tenidh na midhnais,   
+> cene sniges snechta fioinn.   
+> fidba for linn lata lais.  
   
 ## 621.31-32 (DDC 1.639)  
 Pereccul .i. cubus ut est:  
@@ -695,7 +816,7 @@ as caoime cach dlug
 atach namra dam  
 ar sluag ndemna ndub.  
   
-## 633.20-23 (Irsan 216, unmarked by Binchy) = OM1. 815 (trans. Irslinger Ulidia 4: 79)
+## 633.20-23 (Irsan 216, unmarked by Binchy) = OM 1.815 (trans. Irslinger Ulidia 4: 79)
 Medb .i. serb, unde dr:   
 tolcda di coilctib simenn  
 gáir peinn di dromaib duillenn  
@@ -703,7 +824,7 @@ lind serb a beluib deibenn
 mid medb di bratuib cuilenn  
 mor muman cecinit.  
 
-> **OM1. 815**  
+> **OM1. 815**   
 > Medb .i. serb, ut est   
 > Tolgdæ do tholgdaib simend,   
 > gair pend do dromaib duillend,   
@@ -949,55 +1070,6 @@ is a ferthain ar aonbeim
 ioc isin cnocbeim a bus  
 an fuil and gin othrus  
   
-## 1070.19-21 (DDC 2.16)  
-Breisidh .i. diubairsi …  
-Dethbir dā ce iuntais  
-imma brat di breisiu  
-ni faghadh failti laidchen clamh  
-cidh é marus tar meisi  
-
-## 616.15-16 (DDC 1.429) = 1074.12-15 = DDC 3.7 = DDC 4.5 = O'M 1.789
-Lang .i. brég ł mebul. ut est .s. torpuidh.   
-Bés do langaib línib cíall.   
-grían do taithne tar adaigh uar.   
-dírech ndét (fri saigid .s.)   
-⁊ brég na mbriathar mbuan 
-
-> 1074.12-15 (DDC 2.211)  
-> Lang .i. brég bon mebhul ut dx torpaidh:  
-> Bes do langaibh linibh ciall  
-> grian do taithneth tar aigh uar  
-> direch ndet fri saighe sét  
-> 7 bréc na briathar mbuain.  
-
-> DDC 3.7  
-> Lang .i. breg. no mebul. ut dicitur torpuid   
-> Bes do languib línib ciall.   
-> grian do taithne tar aig— uar.   
-> direch ndet fri saighi{n?}d set   
-> ⁊ breg na mbriathar mbuan. 
-
-> DDC 4.5  
-> lang .i. breg no mebul ut dicitur torpuid  
-> bes do languib linib ciall.   
-> grian dotaithne tar aigh - uar.   
-> direch ndet fri saighid set   
-> ⁊ breg na mbriathair mbuan. 
-  
-> O'M 1.789  
-> Lang .i. brecc ł mebal, ut dixit Senchan Torpeist.   
-> bes do langaib linaib ciall.   
-> grian do taitnem tar aig uar.   
-> direch nded fri saigid set.   
-> ⁊ brecc na mbriatar mbuan. 
-
-## 1078.12-14 (DDC)  
-Art .i. uasal .i. deus. Art dano .i. cloch ut dx. G\[u]aire:  
-docelat mor   
-namra nán in airtire  
-bítí for lighu mair cein  
-mic aeda mic maircire  
-  
 ## 1079.12-13 (unmarked by Binchy) = 1487.34-35 (marked)  
 Coimdeth .i. minic no gnathach .ut est   
 Ni coimdeth tin .i. taeb mo samla  
@@ -1026,7 +1098,7 @@ cuanaigh cuir co ceillid
 finnabhair finn a gléghen  
 sec bá féimen bá féinid.
 
-> LL 2117-20  
+> LL 2117-20 De Flaithiusaib Érenn  
 > Áit i mbaí ind rigan rúanaid  
 > Cheltchair chuanaig cauir chéilig  
 > Findabair find a glégen  
@@ -1108,7 +1180,6 @@ sreathaight(h)er eich fo dubhrothuibh dorus.
 > by each bright daybreak,  
 > horses are arranged under dark wheels by the doorway.  
   
-  
 ## 1132.26-28 (BND)  
 amhail ro ghab:  
 Rossa ruadh  
@@ -1117,7 +1188,6 @@ teg mór ffer 7 ech
 docum craoibhe Fert Luighdheach  
   
 ## 1177.1-3 (Bretha Déin Chécht §37, embedded in Bretha Étgid E) = 2315.39-2316.2 = 1218.35-1219.8 (unmarked by Binchy)  
-  
 Bid blidain co fa tri  
 fri trenderosc cind  
 conoiscfi do sunn  
@@ -1182,11 +1252,11 @@ fer tairgille fiadh fechem
 fia fechem fedm co se  
 tall naidm 7 aitiri  
   
-#### 1958.15-16 (Digest D9, on athgabáil inbleogain)  
-Triar ac tocsal, toirim ngleithe  
-Fer tairgille, fiada feichem  
-Breithemh, fiadha, feidm co se  
-Tall naidm 7 aitire  
+> 1958.15-16 (Digest D9, on athgabáil inbleogain)  
+> Triar ac tocsal, toirim ngleithe  
+> Fer tairgille, fiada feichem  
+> Breithemh, fiadha, feidm co se  
+> Tall naidm 7 aitire  
   
 ## 1478.28-29 (O’Dav) = 1512.23-24  
 Blusair .i. nuall:  
@@ -1194,7 +1264,14 @@ Uisce sleibe nim sasaid
 Coibchi co ngeire ngnusa  
 Deog daimh duinn techtus plusa (rec. blusar)  
 Bes lusar geinis lusa  
-  
+
+> 1512.23-24  
+> Lus .i. ibhe, ut est   
+> uisci slebi nim sasa  
+> coibhche co ngeire ngunsa  
+> deogh daim duinn techtus plusa  
+> .i. nuall bes lusar genus lusa .i. bes ibaid-som e ginco hebur-sa  
+
 ## 1486.24-25, 26-27 (O’Dav, Binchy’s ref ZCP 10.350 is incorrect)  
 Cearbhala .i. cogad ut est  
 Bud gresach fri hurnaigdi  
@@ -1285,12 +1362,12 @@ Fil a mberla na filed
 Ed dliged dlige gan acht  
 Is ed mideas filideacht  
   
-#### 2256.8-9  
-7 deismireacht air  
-Ead dliged  
-Fil a mberla na fileadh  
-Edh dliged dliged gan acht  
-Iss ead mideas filidheacht  
+> 2256.8-9  
+> 7 deismireacht air  
+> Ead dliged  
+> Fil a mberla na fileadh  
+> Edh dliged dliged gan acht  
+> Iss ead mideas filidheacht  
   
 ## 1590.29-1591.1 (Uraicecht Becc) = 2256.10-12  
 Anmann an cid co hergnaid  
@@ -1300,13 +1377,13 @@ Coth a greig, quth a laidin
 As fir do gach fir ni celg  
 Is cid a gaidelg  
   
-#### 2256.10-12  
-Anmanda cid co heargnaid  
-Isna ceithre primberlaib  
-Cae ona heabraib re headh  
-Coth a greg, quid a laidean  
-Is fir do gach fir, ni cealg  
-7 is cidh a gaeidhealg  
+> 2256.10-12  
+> Anmanda cid co heargnaid  
+> Isna ceithre primberlaib  
+> Cae ona heabraib re headh  
+> Coth a greg, quid a laidean  
+> Is fir do gach fir, ni cealg  
+> 7 is cidh a gaeidhealg  
   
 ## 1608.16-18 (Uraicecht Becc, trans. By McCone Ériu 35) = 2324.25-27  
 7 desmirecht so ar foillsiugud cach cetra da fuil .c.agun briugaid .c.ach:  
@@ -1314,6 +1391,9 @@ Ba muca heich cairig gobair
 Coin cait cerca geth seoit sobail  
 Beich becga foglenad cach mbeathla  
 It e .x. cetra fer in domain.  
+
+> 2324.25-27  
+> 
   
 ## 1650.14-15 (Pseudo-Prologue)  
 7 deismbirecht air:  
