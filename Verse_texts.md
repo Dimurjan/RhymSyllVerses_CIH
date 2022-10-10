@@ -435,7 +435,7 @@ Ríi midchúarta mescraid recht
 ná\[d] demogaid mesc máa   
 dligid cumail for a secht  
 dó a díriu dán  
-  
+
 ## 609.15-17 (DDC 1.159, unmarked by Binchy) = 1070.35-38 (DDC) = OM1.268 (YBL only)  
 Cúthal .i. tlaith, ut dr in fili  
 Diam cuthal craide tlaith  
@@ -458,6 +458,45 @@ graid maic lir ar loch fa tuaith
 > graigh Meic col. 98 lir tar loch fotuaidh. 
 
 > Also found on an inserted slip of vellum in TCD MS H 3.18 (1337), fol. [v]v, noted in Kobel (2020), 197.  
+  
+## 609.23-24 (DDC 1.164 unmarked by Binchy) = 1071.5-8 = (partially) CormY add.369
+Cro .i. bas, ut dixit corbmac,   
+Peccad buan oll brath cach bí,   
+nirob flaith im cri com cro.   
+im doenacht, a maic de bi.   
+cid tu bud rig, nibo ro.   
+
+> **1071.5-8 (DDC 2.75)**    
+> Cró .i. bás, ut dx Cormac:  
+> Pecadh buan oll brath cath bí  
+> nirob flaith im crí com cro  
+> im daennacht a maic dé bí  
+> cid tú bu rí nibu ró  
+
+> **CormY Add.369** 	  
+> Cro .i. bas, ut dixit Corbmac   
+> nirbo flaith im cri com cro.   
+
+## 609.40-41 (DDC 1.181, unmarked by Binchy) = 1071.30-33 = CormY Add.386
+Cruith .i. glic ł crodha ut dixit,   
+A Máildúin.   
+a natberainn frit a rún,   
+imatrubhairt cailg co cruith.   
+rodamar dolo for buith. 
+ 
+> **1071.30-33 (DDC 2.88)**  
+> Cruith .i. glic no crodha, ut dx:  
+> A mail duin  
+> a natberim friut a ruin  
+> imatrubairt cailg co cruich \[rec. cruith]  
+> rodamar do lobar buith.  
+
+> CormY Add.386
+> Cruith .i. cailg no glic no crodæ, ut est   
+> A Mail duin,   
+> in adberaind frit a ruin,   
+> frim odrubairt cailg co cruith,   
+> rodamair dula for buith.  
   
 ## 611.38-39 (DDC 1.257) = 1072.41-3 = OM 1.350  
 Droch dano .i. roth carpat, ut dx mor muman.   
@@ -514,77 +553,119 @@ leicith duillen ndeilithe.
 > iter ocaib eirichtae  
 > is a sithmbruigh  
   
-## 617.31-33  (DDC 1.489) (unmarked by Binchy) = 1075.33-36 = DDC 3.60 = DDC 4.65 = CormY 944   
+## 614.9-10 (DDC 1.344, unmarked by Binchy) = 1073.39-41 = O'M 1.481
+Emdhe .i. fomnæ, ł bith do menma. ut dictum est.   
+A maic ni maith in dogní.   
+indredh tíre muscraide.   
+eimdhe na tairsit occa.    
+dubtíre da glas fota.   
+
+> **1073.39-41 (DDC 2.193)**  
+> Emde .i. fomnae no bith do menma ut dx:  
+> A mic ni maith an dogní  
+> innredh thire muscraidhe  
+> emde na tairset ócca  
+> duib tíre da ghlas fóta  
+
+> **OM1.481**	
+> Emdæ .i. fomnæ. ł bid do menmæ.   
+> A mic, ni mait in dogni,   
+> indred tire Muscraide.   
+> Eimde na tarset óga   
+> dub-Tire da Glas fotæ.
+ 
+## 617.31-33  (DDC 1.489) (unmarked by Binchy) = 1075.33-36 = DDC 3.60 = DDC 4.65 = CormY add.944   
 Muldach .i. seiscenn, ut dx. ua siagail ag tothlugud cairr  
 Slicht a da gae tre gach mullach  
 cullach flescach férach  
 amal cairr a mberar lamhach  
 tre condold fand ferach  
   
->  **1075.33-36 (DDC 2.263) **  
+>  **1075.33-36 (DDC 2.263)**  
 >  Maullach .i. seis .i. ut dx úa siagail ag tothlugud cairr 
 >  slicht a da ghae tre cach muallach  
 >  cullach flescach ferach  
 >  amail charr a mberar lamach  
 >  tre condull fann ferach  
 
-## 618.34-36 (DDC s.v. osmennadh) = 1076.21-24  
+> **DDC 3.60**  
+> Mulluch .i. seiscend ut est o siagail oc tothlugud car.  
+> Slicht a da gae tre gach mullach.   
+> culluch (.i. loech) flesach ferach   
+> amal cairr im berar lamach   
+> tre connoll fann ferach. 
+
+> **DDC 4.65**  
+> Mulluch .i. seiscend ut est ó siaghail oc tothlugud cairr.   
+> slicht a da gae tre gach mullach.   
+> culluch (.i. loech) flesach feruch.   
+> amal chairr im berar lamach   
+> tre connol fann feruch. 
+
+> **CormY add.944**
+> Mualach .i. seiscend, ut dicitur Rechtgal ó Siadhail   
+> slicht a da gai tria cach mualach,  
+> cuanach flescach ferach,   
+> amail carr a tabair lamhach,   
+> tria condall fand ferach. 
+
+## 618.34-36 (DDC 1.532) = 1076.21-24  
 Osmannadh .i. scrútadh o menmain 7 a meabhrugud dogní, ut dx int éicsine i farrad sencáin  
 Ni mogenar fil andíu  
 oc raith colgan ina fíu  
 ara meince asberar fris  
 osment osment a drochéicis.  
 
-> **1076.21-24**  
+> **1076.21-24 (DDC 2.315)**  
 > Osmenach .i. sgrudun o meanmain 7 a mebrugud dogni ut dx int éicsine i farrath thseancáin  
 > Ni mongenar fil anniu  
 > oc raith colgan ina fiu  
 > ari meinci asberar fris  
 > osmentae a drocheicis  
   
-## 619.17-20 (DDC, unmarked by Binchy) = 1077.16-20  
+## 619.17-20 (DDC 1.555, unmarked by Binchy) = 1077.16-20  
 Púr .i. glan, oní is purus; unde est  
 Intí carus crabhad ngúr  
 is dighnad lais uisce púr  
 ibhid cailech betha búain  
 i flaith iar nól uisque úair  
 
-> **1077.16-20**  
+> **1077.16-20 (DDC 2.335, marg..r.)**  
 > Pur .i. glan, oní is purus ut est 
 > Intí charus crabhadh ngúr  
 > is dignadh lais uisci púr  
 > ibaidh cailech betha buain  
 > i flaith iar ndol uisci uair .ut est.  
   
-## 620.21-22 (DDC, unmarked by Binchy) = 1077.40-42  
+## 620.21-22 (DDC 1.594, unmarked by Binchy) = 1077.40-42  
 Timairle, .i. airle tim ut dr  
 Domic timairle andíu  
 iter fedaib fidmuiniu  
 beirthium dubrón bes ogus  
 in cunnrad dorigenus.   
 
-> **1077.40-42**  
+> **1077.40-42 (DDC 2.362, marg. .r.)**  
 > Timairle .i. airli tim  
 > Domic timairle indiu  
 > iter fedaibh fidhmhuiniu  
 > beirthium dubrón bes ogus  
 > in cunnradh dorigenus
   
-## 621.21-22 (DDC)  
+## 621.21-22 (DDC 1.630)  
 Aiss .i. aubhann ut dx. in fili  
 Mac conaigheth cosnam fris  
 ni aiss tenid na mid nais  
 céne snides snechta find  
 fidba for lind latha lais  
   
-## 621.31-32 (DDC)  
+## 621.31-32 (DDC 1.639)  
 Pereccul .i. cubus ut est:  
 Feirnmi co llin airecol  
 asa aillem airecor  
 foscirt-sa dom perecul  
 for mend macha muinecul  
   
-## 621.33-35 (DDC, unmarked by Binchy)  
+## 621.33-35 (DDC 1.640, unmarked by Binchy)  
 Polan .i.  nomen uiri.   
 Polan mac ming maic maic dedai  
 ut dr mael brídi:  
@@ -593,34 +674,41 @@ is dirand do tucht atcíu
 polan mac ming triúin  
 ni ciuin ima crand indiu.  
   
-## 625.38-39 (a glossary)  
+## 625.38-39 (Loman 154)  
 Saeghlonn. breithem 7 senoir 7 coloman, ut dr:  
 Saeghlonn breithem gin brath  
 saeghlonn senoir sírsaeghlach  
 saeghlonn gach ri fora du  
 7 saeghlonn colomu.  
   
-## 626.20-21 (a glossary)  
+## 626.20-21 (Loman 176)  
 Suine .i. sommata, ut ailius dx:  
 testa d’immudh ar suine  
 a rí duile ni deine  
 nimda febach fuaim naine  
 rogab legad ‘ma leine.  
   
-## 628.25-26 (a glossary)  
+## 628.25-26 (Irsan 27)  
 Dlug .i. acobuir ut colum .c.:  
 Noebri grene glan  
 as caoime cach dlug  
 atach namra dam  
 ar sluag ndemna ndub.  
   
-## 633.20-23 (a glossary, unmarked by Binchy) = OM 815, Irsan 216 (trans. Irslinger Ulidia 4: 79)
+## 633.20-23 (Irsan 216, unmarked by Binchy) = OM1. 815 (trans. Irslinger Ulidia 4: 79)
 Medb .i. serb, unde dr:   
 tolcda di coilctib simenn  
 gáir peinn di dromaib duillenn  
 lind serb a beluib deibenn  
 mid medb di bratuib cuilenn  
 mor muman cecinit.  
+
+> **OM1. 815**  
+> Medb .i. serb, ut est   
+> Tolgdæ do tholgdaib simend,   
+> gair pend do dromaib duillend,   
+> mid medb a belaib debend,   
+> lind serb do bratoib cuilend. 
   
 ## 639.9-10 (Uraicecht Becc, gloss on Sacgart, cf. Fel. P.cxl) = 1595.13-14  
 7 desmirecht arinni is pito proind:  
@@ -629,7 +717,7 @@ a meic muire ingine
 isum aithrech a crist chain  
 domrat sist fo domenmain  
   
-> **1595.13-14**  
+> **1595.13-14 (UB A)**  
 > Desmirecht arindi is pito proind:  
 > Pit beg romroimlius inde  
 > A meic muiri ingine  
@@ -644,7 +732,7 @@ Da mer ina doimni derb ni cel
 A lan do mhil ni fil lusc  
 La cach fichit bairgen buan in cusc  
   
-> **1599.36-38**  
+> **1599.36-38 (UB A)**  
 > NO MIL .i. a loigidecht-sin do mil, amail ata:  
 > Easc a laim bona a mer  
 > Da mer ina doimni derb ni cel  
@@ -652,7 +740,7 @@ La cach fichit bairgen buan in cusc
 > A lan do mil ni fil lusc  
 > La cach firbairgin buan in cusc  
   
-> **2266.36-38**  
+> **2266.36-38 (UB D)**  
 > Amail ata:  
 > Esca laime bona mer  
 > ‘na domni dearb ni chel  
@@ -666,12 +754,12 @@ NO GRUS a loighidacht-sin do gruth
 Da dornn letat a ingne tailc  
 Orrlach inai thighed gened bailc  
   
-> **1599.41-42**  
+> **1599.41-42 (UB A)**  
 > NO GRUS .i. a loigidhicht-sin do grut:  
 > Da dorn le traigidh tailc  
 > Ordlac ina tiget cenid bailc  
   
-> **2267.2**   
+> **2267.2 (UB D)**   
 > .i. da dornd leitheat tanaige thailc  
 > Ordlach ‘na tiget genni bailc  
   
@@ -861,41 +949,48 @@ is a ferthain ar aonbeim
 ioc isin cnocbeim a bus  
 an fuil and gin othrus  
   
-## 1070.19-21 (DDC)  
+## 1070.19-21 (DDC 2.16)  
 Breisidh .i. diubairsi …  
 Dethbir dā ce iuntais  
 imma brat di breisiu  
 ni faghadh failti laidchen clamh  
 cidh é marus tar meisi  
+
+## 616.15-16 (DDC 1.429) = 1074.12-15 = DDC 3.7 = DDC 4.5 = O'M 1.789
+Lang .i. brég ł mebul. ut est .s. torpuidh.   
+Bés do langaib línib cíall.   
+grían do taithne tar adaigh uar.   
+dírech ndét (fri saigid .s.)   
+⁊ brég na mbriathar mbuan 
+
+> 1074.12-15 (DDC 2.211)  
+> Lang .i. brég bon mebhul ut dx torpaidh:  
+> Bes do langaibh linibh ciall  
+> grian do taithneth tar aigh uar  
+> direch ndet fri saighe sét  
+> 7 bréc na briathar mbuain.  
+
+> DDC 3.7  
+> Lang .i. breg. no mebul. ut dicitur torpuid   
+> Bes do languib línib ciall.   
+> grian do taithne tar aig— uar.   
+> direch ndet fri saighi{n?}d set   
+> ⁊ breg na mbriathar mbuan. 
+
+> DDC 4.5  
+> lang .i. breg no mebul ut dicitur torpuid  
+> bes do languib linib ciall.   
+> grian dotaithne tar aigh - uar.   
+> direch ndet fri saighid set   
+> ⁊ breg na mbriathair mbuan. 
   
-## 1071.5-8 (DDC)  
-Cró .i. bás, ut dx Cormac:  
-Pecadh buan oll brath cath bí  
-nirob flaith im crí com cro  
-im daennacht a maic dé bí  
-cid tú bu rí nibu ró  
-  
-## 1071.30-33 (DDC)  
-Cruith .i. glic no crodha, ut dx:  
-A mail duin  
-a natberim friut a ruin  
-imatrubairt cailg co cruich [rec. cruith]  
-rodamar do lobar buith.  
-  
-## 1073.39-41 (DDC)  
-Emde .i. fomnae no bith do menma ut dx:  
-A mic ni maith an dogní  
-innredh thire muscraidhe  
-emde na tairset ócca  
-duib tíre da ghlas fóta  
-  
-## 1074.12-15 (DDC)  
-Lang .i. brég bon mebhul ut dx torpaidh:  
-Bes do langaibh linibh ciall  
-grian do taithneth tar aigh uar  
-direch ndet fri saighe sét  
-7 bréc na briathar mbuain.  
-  
+> O'M 1.789  
+> Lang .i. brecc ł mebal, ut dixit Senchan Torpeist.   
+> bes do langaib linaib ciall.   
+> grian do taitnem tar aig uar.   
+> direch nded fri saigid set.   
+> ⁊ brecc na mbriatar mbuan. 
+
 ## 1078.12-14 (DDC)  
 Art .i. uasal .i. deus. Art dano .i. cloch ut dx. G\[u]aire:  
 docelat mor   
