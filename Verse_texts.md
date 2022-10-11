@@ -1393,7 +1393,11 @@ Beich becga foglenad cach mbeathla
 It e .x. cetra fer in domain.  
 
 > 2324.25-27  
-> 
+> 7 desmirecht so ar foillsigud cach cethra da fuil .c. acun brugaid .c.ach  
+> Ba mucca eich cairig gabair  
+> coin cait cerca gedh seoid sobail  
+> beich becca fotlenad cach mbeatha  
+> it e .x. cethra fer ndomhain  
   
 ## 1650.14-15 (Pseudo-Prologue)  
 7 deismbirecht air:  
@@ -1408,32 +1412,52 @@ Dildugh 7 innechad
 Riar 7 togha co tenn  
 A fuisidud is a foirgell  
   
-#### 1652.30-31  
-Sedha na luidhe gin brath  
-Dilgudh 7 innechad  
-Riar 7 togha co tenn  
-A fuisiti sa foirgell  
+> 1652.30-31  
+> Sedha na luidhe gin brath  
+> Dilgudh 7 innechad  
+> Riar 7 togha co tenn  
+> A fuisiti sa foirgell  
   
-## 1664.10-12 (Cethairslicht Athgabálae commentary, on ‘ferb’, this and foll. Cf. Amra commentary)  
+## 1664.10-12 (Cethairslicht Athgabálae commentary, on ‘ferb’, this and foll. Cf. ACC commentary, Stokes 1899: 248-50)  
 Ferb bo .i. ferb quasi uerb a uerbo .i. uerbam. Ut dr.  
 Isat dos edhinn frit clo  
 Ni celmid armo deghbrodh  
 A fir a glinn geirg co ngail  
-Gnath ferb as olc dart belaib  
+Gnath ferb as olc dart belaib 
+
+> ACC commentary, Stokes 1899: 248  
+> ferb quasi uerb. a uerbo .i. uerbum, ut dicitur:  
+> Isat doss edind frit chlod  
+> ni chelim dar mo debrod  
+> a fir a Glind Gerg co ngail  
+> gnath ferb is olcc dart belaib  
   
-## 1664.18-22 (Cethairslicht Athgabálae commentary, on ‘ercc’)  
+## 1664.18-22 (Cethairslicht Athgabálae commentary, on ‘ercc’) = ACC commentary  
 Ercc .i. bo 7 ferb .i. bo 7 lannor .i. bo Ut dr.  
 Ercca iuchna amnus buar  
 Ica toguil docer luar  
 Ac techt amach asa toigh  
 Frith lecht laoghuire buadaig  
   
-Rodet a crich chunnucht [coir]  
+Rodet a crich chunnucht \[coir]  
 An a lachta ‘ga lannoir  
 Fele brig buafadh as bladh  
 I crich cruachun na coradh  
+
+> ACC commentary, Stokes 1899: 250   
+> quia fit ercc .i. bo, 7 ferb .i. bo, 7 lannoir .i. bo, ut dicitur:  
+> Ercca Iuchna amnas búar  
+> ic a togail docer Lúar  
+> oc techt immach asa thaig  
+> frith lecht Laegaire Buadaig  
+> 
+> Lannoir .i. bo, ut dicitur:  
+> Roddet a crich Connacht cóir  
+> ana lachta coa lannoir  
+> feili, bríg, bua\[n]fad is blad  
+> a crich Cruachan na corad  
   
-## 1664.22-31 (Cethairslicht Athgabála commentary, on ‘buo’)  
+## 1664.22-31 (Cethairslicht Athgabála commentary, on ‘buo’) = ACC commentary  
 Ata dō bo a uerbo buo .i. fograighim, ut dr.  
 Buo fogur bo baidhe  
 As buiredh cach necaine  
@@ -1454,6 +1478,12 @@ Earcca iuchna amnus buar
 7 lannoir bo gi buan  
 7 buo bo buidhe  
 Is ferb bo cu mbithbuaire  
+
+> Ata dano bó a uerbo buo uel boo .i. fograigim, ut dicitur:  
+> Buo fogur bó báide  
+> buo buiriud n-ecaine  
+> buo cach bó, cobraid ceist  
+> o tha colpthaig co samseisc  
   
 ## 1664.39-41 (Cethairslicht Athgabála commentary)  
 Mur itfiadat na filidh:  
@@ -1481,13 +1511,13 @@ Gairit a remes fa rir
 Cinco be ort a imsním  
 A collan (rec. chalann by Binchy), na bi co bras  
 Nochan i an anam ablas  
-  
-#### 2235.15-17:  
-7 desmeracht air  
-Gairit do remius fa rior  
-7 rl.- gingo fuil ort imgnim  
-A calann, na bi go bras  
-Nochan i ‘n anam ablas  
+
+> 2235.15-17:  
+> 7 desmeracht air  
+> Gairit do remius fa rior  
+> 7 rl.- gingo fuil ort imgnim  
+> A calann, na bi go bras  
+> Nochan i ‘n anam ablas  
   
 ## 1800.10-17 (Cáin Aicillne commentary on the seven beosgartha)  
 Fuil .uii. mbeoscartha is brig bras  
@@ -1534,7 +1564,6 @@ Eagluis dalta co nglainbrigh
 Compairche 7 deoruid dé  
 Uadhaibh gabur apdhaine.  
   
-  
 ## 1933.3-6 (Digest C22, on the compensation of separation of soul from body) = 2145.23-25  
 Mar ader:  
 In cethracha, comall nglic  
@@ -1547,43 +1576,55 @@ Is ocht colpaca comhlana
 Go feiser a testa de  
 Ochtmoghat is ceithre dairte  
   
-#### 2143.23-25 (commentary to Fotha Mór)  
-.C. cethra, comall nglic  
-Doberar isin eric  
-Bo trelaeda cach tiri tra  
-La teora bu indlaega  
+> 2143.23-25 (commentary to Fotha Mór)  
+> .C. cethra, comall nglic  
+> Doberar isin eric  
+> Bo trelaeda cach tiri tra  
+> La teora bu indlaega  
   
-Cethra samaisci slana  
-Ocht colpacha comlana  
-Go feser in testo de  
-.uiii. inaga 7 .iiii. dairti  
+> Cethra samaisci slana  
+> Ocht colpacha comlana  
+> Go feser in testo de  
+> .uiii. inaga 7 .iiii. dairti  
   
-## 2112.37-39 (BNT commentary)  
+## 2112.37-39 (BNT commentary, ed. Dillon 1932: 43-44 & Watkins, Ériu 29 (1978), 163) = CormY 70 = CormB 71 = CormM 66  
 In nesar dam do há?  
 To maini ma mo ha  
 Ara tairi mo há mo?  
 Mani ma do há, to  
-  
+
+## 2113.3–4  (BNT commentary, attr, to Fer Muman, ed. Dillon 1932: 43-44)
+Cia fairneac? ol fear mumun:  
+Cuileand co mboin  
+coll cona dib  
+daur condla con  
+uaidib co trib.  
+
+Triar fear  
+fearsait mol  
+muil uas boin  
+blosair con.  
+
 ## 2128.1-2 (narrative commentary, ed. O’Keeffe Ériu 1.124)  
 Trom naire  
 Tucus lim tar magh nene  
 Airm móra mo meic im laim  
 Iss a faidb ‘sa laim eile  
   
-## 2256.3-4 (Uraicecht Becc commentary)  
+## 2256.3-4 (Uraicecht Becc)  
 Ocht ndiultada gaedilgi .i.   
 am 7 an. 7 ass  
 is dimhí 7 dimhes  
 em uigmig ni modh ceilge  
 ocht ndiultada gaeidilge  
   
-## 2281.8-9 (UB)  
+## 2281.8-9 (Uraicecht Becc)  
 Dligid cirmaire na cir  
 Comrith re coin crith go mbrig  
 7 aidearc reithe rain  
 Da dirgud do da anail  
   
-## 2320.18-21 (Misc text= MV iii.28 (IT3.72))  
+## 2320.18-21 (Uraicecht Becc = MV iii.28 (IT3.72))  
 Dian chenntrom ann so  
 Beannacht de for eithni nollguirm  
 Ingen domnaill dailas bir  
@@ -1592,7 +1633,7 @@ For .c. nathfach
 Eri ochtair cethrair bachlach  
 Sescend srathrach sruaim do mid  
   
-## 2321.14-16 (Misc text) = 2322.35-36 = MV II §93  
+## 2321.14-16 (Uraicecht Becc) = 2322.35-36 = MV II §93  
 .u.  
 Ba cacha natha  
 Na di craess carna  
@@ -1600,24 +1641,24 @@ Imna curpu caramna .i. imna laegaib
 Carbad cumaili  
 Cach aedha anamna  
   
-## 2322.35-36  
-Nath a aisdi, 7 is as gabar sin:  
-.u. ba cacha natha  
-Na di cres caramna  
-Carpat cumaili  
-Cach aedha anumna  
+> 2322.35-36 (UB)  
+> Nath a aisdi, 7 is as gabar sin:  
+> .u. ba cacha natha  
+> Na di cres caramna  
+> Carpat cumaili  
+> Cach aedha anumna  
   
-## 2322.4-6 (Misc text) = MV II §93  
+## 2322.4-6 (Uraicecht Becc) = MV II §93  
 Eamain imrind a aisdi, 7 is as gabar sin  
 .i. Ech da bo billathach  
 Luatharem ar airdeamain  
   
-## 2322.20-21 (Misc text) = MV II §93  
+## 2322.20-21 (Uraicecht Becc) = MV II §93  
 Anair a aisde, 7 is as gabar sin  
 Bid bo fochain cethrair  
 Ar anair nircoraid  
   
-## 2326.20-21 (Misc text)  
+## 2326.20-21 (Uraicecht Becc)  
 Cadi dethber etarru-sin 7 in fail ita tall:  
 Diri uigi circi  
 A lan do luibib gall  
