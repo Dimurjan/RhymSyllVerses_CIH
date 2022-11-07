@@ -1355,7 +1355,7 @@ Inad hui liathain at airdri
 Inad ceall dara do ceall  
 Inad la Crist do choall  
   
-## 1584.1-1585.8 = An Advice to students of law (Ní Dhonnchadha 1989)  
+## 1584.1-1585.8 = An Address to students of law (Ní Dhonnchadha 1989)  
   
 ## 1587.18-19 (on satire, ed. Merony 1950: 212-14)  
 Saeth lium bas caiar ri cruachna  
