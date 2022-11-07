@@ -1595,13 +1595,13 @@ Ochtmoghat is ceithre dairte
 > Go feser in testo de  
 > .uiii. inaga 7 .iiii. dairti  
   
-## 2112.37-39 (BNT commentary, ed. Dillon 1932: 43-44 & Watkins, Ériu 29 (1978), 163) = CormY 70 = CormB 71 = CormM 66  
+## 2112.37-39 (BNT commentary, ed. Dillon 1932: 43-44 & Watkins, Ériu 29 (1978), 163) Mahon 2006: 246-7 = 617.23 (DDC, only first line) = ACC commentary = CormY 70 = CormB 71 = CormM 66  
 In nesar dam do há?  
 To maini ma mo ha  
 Ara tairi mo há mo?  
 Mani ma do há, to  
 
-## 2113.3–4  (BNT commentary, attr, to Fer Muman, ed. Dillon 1932: 43-44)
+## 2113.3–4  (BNT commentary, attr, to Fer Muman, ed. Dillon 1932: 43-44, Mahon 2006: 249-250)
 Cia fairneac? ol fear mumun:  
 Cuileand co mboin  
 coll cona dib  
