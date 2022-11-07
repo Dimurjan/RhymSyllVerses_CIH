@@ -32,6 +32,12 @@ Conall cernach tuc ceann eirc
 re taeb temrach im trath teirt    
 is truaigh in gnim dodechaid de    
 brised cridi uair aicle    
+
+> 925.24-25 (Bretha Étgid prologue on Aicill)
+> Uair conoll cernach tuc cend eirc
+> sech taeb temrach im trath teirt
+> truag in gnim dorala de
+> robris craide i nuar naicle
     
 ## **339.17-20** (PHP to SM):    
 deismerecht air-sidhe, ut dx in filedh:    
@@ -983,12 +989,7 @@ ba feidm d’aighnedhuiph elga
 ni hanbfund an cles ‘mun crud  
 tabrum tres ara toxul.  
 …  
-  
-## 925.24-25 (Bretha Étgid prologue on Aicill)  
-Uair conoll cernach tuc cend eirc  
-sech taeb temrach im trath teirt  
-truag in gnim dorala de  
-robris craide i nuar naicle  
+
   
 ## 1028.2-12 (Cóic Conara Fuigill prologue, ed. and trans. Archan 2007: 320-1) = 1280.13-21  
 Cia lin do chunntairismib caendenmacha aithfeghtar sunn dona .u. conairib fuigill?  
