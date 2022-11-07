@@ -47,7 +47,7 @@ patraic beneoin cairneach coir
 rosa dubthach ferghus co feib    
 naei sailgis int sencuis moir.    
     
-## **345.12-15** (Intro to SM):    
+## **345.12-15** (Intro to SM = Auraic. 5385-9 'Cendfochrus'):    
 ef tallad as ria n-es, deismirecht air-side, amail adubairt in file:    
     
 Fegsat filid fail i fos    
