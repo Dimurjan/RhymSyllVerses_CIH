@@ -892,7 +892,7 @@ Orrlach inai thighed gened bailc
 > Ordlach ‘na tiget genni bailc  
   
 ## 664.6-9 (glossing torma.)  
-*Binchy: non-legal material, apparently inserted in order to illustrate the word torma in preceding paragraph*
+*Binchy: non-legal material, apparently inserted in order to illustrate the word torma in preceding paragraph*  
 Ni teithig ann d’ingairi  
 7 ni dentaid faire  
 scolboth lais cach duini  
