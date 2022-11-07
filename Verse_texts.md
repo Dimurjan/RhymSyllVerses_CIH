@@ -54,6 +54,13 @@ Fegsat filid fail i fos
 fenchas co feig la fergus    
 ma iar mal cach maine imach    
 doroisce daine dubtach    
+
+> Auraic.ll. 5385-9:  
+> Cendfochrus.   
+> Fegsat fihd Fail i fus  
+> Fenchas co feig la Fergus,  
+> Mad tar mal cach maige immach  
+> Doróscib dóinib Dubthach. A Dia a ri.  
     
 ## **354.6-7** (narrative in SM2 Cethairslicht Athgabálae)    
 7 deismirecht air:    
@@ -78,7 +85,7 @@ ba si fochunn a ainme.
     
   
 ## **375.12** (SM2 commentary) = 1506.35-36 (O’Dav) = Auraic. ll. 4541-4    
-Anbobracht .i. ut dx Cormac:    
+Di anbobracht .i. ut dx Cormac:    
 Conberbar bracht    
 Nebron bru    
 Feisi cin lacht    
