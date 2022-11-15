@@ -1206,7 +1206,17 @@ dona bi iarair
 asber fri derusc coisi  
 treimsi fri bliadain.  
   
-> **2315.39-2316.2** (canonical text)  
+> **2315.37-2316.2** (canonical text, the first two qq. identified as verse by Breatnach 2005: 370 n 20)  
+> Lanad cach colpthai aniar  
+> no a mmedon mes  
+> mithir fri trelaog toimsi  
+> mani timarr seis  
+
+> Se lethseoit cac aurcora  
+> im lulgaic co laeg  
+> Lesa sliastai sceo colpthai  
+> condlegtar i naon  
+
 > Oenann fri derosc laimi  
 > dona bi iarair  
 > asbeir fri derosc coisi  
